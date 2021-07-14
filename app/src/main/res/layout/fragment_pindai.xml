@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.budiyev.android.codescanner.CodeScannerView
+        android:id="@+id/scn"
+        android:layout_width="match_parent"
+        android:layout_height="420dp"
+        app:autoFocusButtonColor="@color/colorWhite"
+        app:autoFocusButtonVisible="true"
+        app:flashButtonColor="@color/colorWhite"
+        app:flashButtonVisible="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_text"
+        android:layout_width="350dp"
+        android:layout_height="30dp"
+        android:layout_marginBottom="5dp"
+        android:text="memindai..."
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:background="@drawable/rounded_bg_white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toBottomOf="@+id/scn" />
+    
+    <ImageView
+        android:id="@+id/imgPreview"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="10dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/scn"
+        />
+    
+    <Button
+        android:id="@+id/btnSelengkapnya"
+        android:visibility="invisible"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:text="Cek Selengkapnya"
+        android:textColor="@color/colorWhite"
+        android:background="@drawable/rounded_button"
+        android:layout_marginTop="5dp"
+        style="?android:attr/borderlessButtonStyle"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/imgPreview"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
