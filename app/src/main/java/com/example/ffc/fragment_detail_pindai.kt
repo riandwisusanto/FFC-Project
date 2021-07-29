@@ -2,6 +2,7 @@ package com.example.ffc
 
 import android.annotation.SuppressLint
 import android.content.Context
+import android.content.Intent
 import android.content.SharedPreferences
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -42,9 +43,12 @@ class fragment_detail_pindai : Fragment() {
 
         titleDetail.text = sharedPreferences.getString("scan", "")
         val fullData = FullData.data
+        var vid = toString()
         fullData.forEach {
-            if(it.nama.equals(titleDetail.text.toString()))
+            if(it.nama.equals(titleDetail.text.toString())) {
                 deskripsiDetail.text = it.deskripsi
+                vid = it.video
+            }
         }
 
         btnVideo        = activity?.findViewById(R.id.btnVideo)!!
@@ -53,27 +57,32 @@ class fragment_detail_pindai : Fragment() {
         btnPertandingan = activity?.findViewById(R.id.btnPertandingan)!!
 
         btnVideo.setOnClickListener {
-            editor.putString("check", "video")
-            editor.apply()
-            (activity as main_menu?)?.firstFragmentDisplay(R.id.nav_lihat_detail)
+            if(vid == ""){
+                Toast.makeText(activity, "Video Belum Tersedia", Toast.LENGTH_SHORT).show()
+            }
+            else{
+                editor.putString("check", "video")
+                editor.apply()
+                startActivity(Intent(activity, lihat_detail::class.java))
+            }
         }
 //
         btnSejarah.setOnClickListener {
             editor.putString("check", "sejarah")
             editor.apply()
-            (activity as main_menu?)?.firstFragmentDisplay(R.id.nav_lihat_detail)
+            startActivity(Intent(activity, lihat_detail::class.java))
         }
 
         btnPeraturan.setOnClickListener {
             editor.putString("check", "peraturan")
             editor.apply()
-            (activity as main_menu?)?.firstFragmentDisplay(R.id.nav_lihat_detail)
+            startActivity(Intent(activity, lihat_detail::class.java))
         }
 
         btnPertandingan.setOnClickListener {
             editor.putString("check", "pertandingan")
             editor.apply()
-            (activity as main_menu?)?.firstFragmentDisplay(R.id.nav_lihat_detail)
+            startActivity(Intent(activity, lihat_detail::class.java))
         }
     }
 }

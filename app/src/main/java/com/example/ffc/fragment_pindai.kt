@@ -10,6 +10,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.Button
 import android.widget.ImageView
+import android.widget.TextView
 import android.widget.Toast
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
@@ -31,6 +32,7 @@ class fragment_pindai : Fragment() {
     private lateinit var codeScanner: CodeScanner
     var multi = MultiFormatWriter()
     lateinit var btn_selengkapnya : Button
+    lateinit var txt_display: TextView
 
     lateinit var sharedPreferences : SharedPreferences
     lateinit var editor : SharedPreferences.Editor
@@ -51,6 +53,7 @@ class fragment_pindai : Fragment() {
 
         btn_selengkapnya = activity?.findViewById(R.id.btnSelengkapnya)!!
         btn_selengkapnya.visibility = View.INVISIBLE
+        txt_display = activity?.findViewById(R.id.tv_text)!!
 
         btn_selengkapnya.setOnClickListener {
             editor.putString("scan", tv_text.text.toString())
@@ -81,8 +84,8 @@ class fragment_pindai : Fragment() {
                     val txtScan = it.text
 
                     fullData.forEach {
-                        if(it.nama.equals(txtScan)){
-                            tv_text.text = txtScan
+                        if(it.id.equals(txtScan)){
+                            txt_display.text = it.nama
                             btn_selengkapnya.visibility = View.VISIBLE
                             try {
                                 val bitMatrix: BitMatrix = multi.encode(

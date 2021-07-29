@@ -22,6 +22,8 @@ class splash_screen : AppCompatActivity() {
 
         sharedPreferences = getSharedPreferences("save", Context.MODE_PRIVATE)!!
         editor = sharedPreferences.edit()
+        editor.putString("isBackDetail", "false")
+        editor.apply()
 
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
 

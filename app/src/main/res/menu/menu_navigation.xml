@@ -16,10 +16,10 @@
             android:id="@+id/nav_detail_pindai"
             android:visible="false"
             android:title="Detail" />
-        <item
-            android:id="@+id/nav_lihat_detail"
-            android:visible="false"
-            android:title="Lihat" />
+<!--        <item-->
+<!--            android:id="@+id/nav_lihat_detail"-->
+<!--            android:visible="false"-->
+<!--            android:title="Lihat" />-->
     </group>
     <group
         android:id="@+id/grp_2"
