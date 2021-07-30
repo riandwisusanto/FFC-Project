@@ -17,28 +17,27 @@ object FullData {
                     "            <li>\tMulai berjalan di tempat dan jangan berhenti jika tidak yakin pada posisi seimbang.</li>\n" +
                     "            <li>\tJika merasa akan terjatuh, jatuhkan kaki di antara Egrang.</li>\n" +
                     "            <li>\tUsahakan bermain di tempat yang luas.</li>\n" +
-                    "        </ul>\n\n" +
+                    "        </ul>\n\n<br>" +
                     "<b>Aturan Permainan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tDiadakan undian untuk menentukan urutan pemberangkatan perlombaan.</li>\n" +
                     "            <li>\tPerkelompok diperlombakan dalam seri, dan garis star sampai garis finish dipimpin oleh juri start dan waktu dicatat oleh petugas di garis finish.</li>\n" +
-                    "            <li>\tSebelum perlombaan dimulai para pemain berdiri di belakang garis start dengan memegang egrang." +
-                    "            <li>\tAba-aba perlombaan oleh wasit/juri start adalah bersedia, siap, ‘’YA’'." +
+                    "            <li>\tSebelum perlombaan dimulai para pemain berdiri di belakang garis start dengan memegang egrang.</li>\n" +
+                    "            <li>\tAba-aba perlombaan oleh wasit/juri start adalah bersedia, siap, ‘’YA’'.</li>\n" +
                     "            <li>\tPara pemain dinyatakan gugur apabila :" +
-                    "               <ul>" +
-                    "                   <li>a. menginjak garis</li>" +
-                    "                   <li>b. kaki jatuh menyentuh lantai/lintasan</li>" +
-                    "                   <li>c. dengan sengaja mengganggu atlet lain</li>" +
-                    "               </ul>" +
+                    "                   <br>(a) menginjak garis" +
+                    "                   <br>(b) kaki jatuh menyentuh lantai/lintasan" +
+                    "                   <br>(c) dengan sengaja mengganggu atlet lain" +
+                    "            </li>\n" +
                     "            <li>\tWaktu terbaik dalam seri (2 atau 3 orang) berhak mengikuti seri berikutnya.</li>\n" +
                     "            <li>\tPemain yang terganggu jalannya oleh pemain lainnya boleh meneruskan larinya atau mengulang.</li>\n" +
                     "            <li>\tPemain yang mengambil lintasan orang lain dinyatakan gugur.</li>\n" +
-                    "        </ul>\n\n"+
+                    "        </ul>\n\n<br>"+
                     "<b>Peralatan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tLapangan.</li>\n" +
                     "            <li>\tUntuk peralatan permainan Egrang bisa dibuat dari Bahan dan bambu dengan garis tengah 5 cm.</li>\n" +
-                    "        </ul>\n\n",
+                    "        </ul>\n\n<br>",
             "OK886Iz6_-A"
         ),
         ItemFFC( //
@@ -53,31 +52,29 @@ object FullData {
                     "            <li>\tSetelah melakukan undian, pemain yang bertanding naik ke atas dan duduk di bambu yang disediakan.</li>\n" +
                     "            <li>\tSikap duduk, kaki tergantung, satu tangan membawa bantal, dan satu tangan digunakan untuk menangkis.</li>\n" +
                     "            <li>\tSetelah pemain siap, wasit meniupkan peluit, dan pemain berusaha memukul lawan dengan menggunakan bantal.</li>\n" +
-                    "            <li>\tPemain dinyatakan kalah jika :</li>\n" +
-                    "               <ul>" +
-                    "                   <li>a. Jatuh ke bawah</li>" +
-                    "                   <li>b. Jatuh terlebih dahulu</li>" +
-                    "                   <li>c. Tangan memegang kayu</li>" +
-                    "                   <li>d. Kaki menjepit dudukan</li>" +
-                    "               </ul>" +
-                    "        </ul>\n\n" +
+                    "            <li>\tPemain dinyatakan kalah jika :" +
+                    "                   <br>(a) Jatuh ke bawah" +
+                    "                   <br>(b) Jatuh terlebih dahulu" +
+                    "                   <br>(c) Tangan memegang kayu" +
+                    "                   <br>(d) Kaki menjepit dudukan" +
+                    "            </li>\n" +
+                    "        </ul>\n\n<br>" +
                     "<b>Aturan Permainan :</b>\n" +
                     "        <ul>\n" +
-                    "            <li>\tLapangan atau tempat bermain.</li>\n" +
-                    "               <ul>" +
-                    "                   <li>-	Lapangan outdoor rumput, tanah atau pasir, dan di atas air</li>" +
-                    "                   <li>-	Lapangan indoor (terkecuali di atas air), diberi pengaman matras, pasir, atau jerami</li>" +
-                    "               </ul>" +
+                    "            <li>\tLapangan atau tempat bermain." +
+                    "                   <br>(a) Lapangan outdoor rumput, tanah atau pasir, dan di atas air" +
+                    "                   <br>(b) Lapangan indoor (terkecuali di atas air), diberi pengaman matras, pasir, atau jerami" +
+                    "            </li>\n" +
                     "            <li>\tGebuk bantal dapat dimainkan oleh laki-laki maupun perempuan dengan pengelompokan umur yang sesuai.</li>\n" +
-                    "            <li>\tDurasi permainan selama 5 menit/babak, jika dalam waktu tersebut tidak ada yang terjatuh maka diberi waktu istirahat 3 menit, dan dilanjutkan 5 menit untuk babak selanjutnya." +
-                    "            <li>\tSasaran, semua area tubuh kecuali kepala" +
-                    "        </ul>\n\n"+
+                    "            <li>\tDurasi permainan selama 5 menit/babak, jika dalam waktu tersebut tidak ada yang terjatuh maka diberi waktu istirahat 3 menit, dan dilanjutkan 5 menit untuk babak selanjutnya.</li>\n" +
+                    "            <li>\tSasaran, semua area tubuh kecuali kepala</li>\n" +
+                    "        </ul>\n\n<br>"+
                     "<b>Peralatan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tBambu atau papan penyangga</li>\n" +
                     "            <li>\tBantal</li>\n" +
                     "            <li>\tMatras, jerami, pasir atau tanah</li>\n" +
-                    "        </ul>\n\n",
+                    "        </ul>\n\n<br>",
             "qHPdEYWi7ek"
         ),
         ItemFFC( //
@@ -97,22 +94,21 @@ object FullData {
                     "            <li>\tRegu dianggap sah, apabila peserta terakhir dan ujung terompah bagian belakang melewati garis finish dengan tidak ada kesalahan selama dalam perjalanan.</li>\n" +
                     "            <li>\tPeserta/regu dianggap gugur apabila,tidak berhasil mencapai garis finish,menginjak lintasan peserta lain, dengan sengaja mengganggu peserta lain, salah satu kaki atau kedua kaki menginjak tanah artinya salah satu kaki atau kedua kaki tidak ada kontak dengan terompah, terompah rusak ditengah jalan, regu yang gugur tidak perlu meneruskan sampai garis finish.</li>\n" +
                     "            <li>\tUntuk regu yang dinyatakan sebagai pemenang apabila regu tersebut paling cepat memasuki garis finish.</li>\n" +
-                    "        </ul>\n\n" +
+                    "        </ul>\n\n<br>" +
                     "<b>Aturan Permainan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tSatu regu terdiri dari 5 orang pemain putra dan 2 cadangan.</li>\n" +
                     "            <li>\tStart dibelakang garis dan peserta berada disamping terompah.</li>\n" +
-                    "            <li>\tBerjalan sesuai dengan lintasan masing- masing." +
-                    "            <li>\tSebelum berbalik arah, pemain dan terompah harus seluruhnya melewati garis." +
-                    "            <li>\tSetelah berbalik urutan posisi pemain harus sama seperti sebelumnya." +
-                    "            <li>\tPada saat mengangkat terompah untuk berbalik, tidak boleh mengganggu pemain lain." +
-                    "            <li>\tPada saat finish, terompah bagian belakang harus melewati garis finish." +
+                    "            <li>\tBerjalan sesuai dengan lintasan masing- masing.</li>\n" +
+                    "            <li>\tSebelum berbalik arah, pemain dan terompah harus seluruhnya melewati garis.</li>\n" +
+                    "            <li>\tSetelah berbalik urutan posisi pemain harus sama seperti sebelumnya.</li>\n" +
+                    "            <li>\tPada saat mengangkat terompah untuk berbalik, tidak boleh mengganggu pemain lain.</li>\n" +
+                    "            <li>\tPada saat finish, terompah bagian belakang harus melewati garis finish.</li>\n" +
                     "            <li>\tDinyatakan diskualifikasi jika :" +
-                    "               <ul>" +
-                    "                   <li>a.\tTerompah menyentuh garis lintasan</li>" +
-                    "                   <li>b.\tJika kaki peserta menyentuh tanah</li>" +
-                    "               </ul>" +
-                    "        </ul>\n\n"+
+                    "                   <br>(a)\tTerompah menyentuh garis lintasan" +
+                    "                   <br>(b)\tJika kaki peserta menyentuh tanah" +
+                    "            </li>\n" +
+                    "        </ul>\n\n<br>"+
                     "<b>Peralatan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tBendera atau peluit.</li>\n" +
@@ -123,7 +119,7 @@ object FullData {
                     "            <li>\tMeteran gulung ukuran 50 meter.</li>\n" +
                     "            <li>\tMeja dan kursi untuk kesekretariatan.</li>\n" +
                     "            <li>\tTerompah : Dibuat dari balok/papan.</li>\n" +
-                    "        </ul>\n\n",
+                    "        </ul>\n\n<br>",
             "fygrKSRL-Xk"
         ),
         ItemFFC( //
@@ -138,34 +134,30 @@ object FullData {
                     "            <li>\tSebelum permainan dimulai, para pemain duduk diatas 2 balok di belakang garis start dan kedua tangan menyentuh 2 balok lainnya yang terletak di belakang kedua balok yang diinjak.</li>\n" +
                     "            <li>\tPada aba-aba ‘bersedia’ para pemain duduk jongkok di kedua balok, aba-aba ‘siap’ kedua tangan siap memindahkan kedua balok lainnya, aba-aba ‘ya’ para pemain saling berlomba.</li>\n" +
                     "            <li>\tPeserta paling cepat mencapai garis finish menjadi pemenang.</li>\n" +
-                    "        </ul>\n\n" +
+                    "        </ul>\n\n<br>" +
                     "<b>Aturan Permainan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tPermainan dapat dilakukan oleh laki-laki maupun perempuan, dikategorikan berdasarkan usia.</li>\n" +
-                    "            <li>\tPemain dinyatakan gugur apabila :</li>\n" +
-                    "               <ul>" +
-                    "                   <li>-\tSalah satu kaki menginjak tanah dan sama sekali tidak ada kontak dengan balok.</li>" +
-                    "                   <li>-\tSalah satu tangan tidak ada kontak dengan balok.</li>" +
-                    "                   <li>-\tDengan sengaja mengganggu pemain lain.</li>" +
-                    "                   <li>-\tKeluar dari lintasannya</li>" +
-                    "               </ul>" +
-                    "            <li>\tPemain dinyatakan menang apabila :</li>\n" +
-                    "               <ul>" +
-                    "                   <li>-\tPaling cepat menyentuh garis finish (dengan ketentuan kedua balok telah masuk ke garis finish).</li>" +
-                    "               </ul>" +
-                    "        </ul>\n\n"+
+                    "            <li>\tPemain dinyatakan gugur apabila :" +
+                    "                   <br>(a) Salah satu kaki menginjak tanah dan sama sekali tidak ada kontak dengan balok." +
+                    "                   <br>(b) Salah satu tangan tidak ada kontak dengan balok." +
+                    "                   <br>(c) Dengan sengaja mengganggu pemain lain." +
+                    "                   <br>(d) Keluar dari lintasannya</li>" +
+                    "            <li>\tPemain dinyatakan menang apabila :" +
+                    "                   <br>(a) Paling cepat menyentuh garis finish (dengan ketentuan kedua balok telah masuk ke garis finish)." +
+                    "            </li>\n" +
+                    "        </ul>\n\n<br>"+
                     "<b>Peralatan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tLapangan terbuka dan rata (rumput, tanah, atau aspal).</li>\n" +
-                    "            <li>\tBalok kayu berukuran :</li>\n" +
-                    "               <ul>" +
-                    "                   <li>-\tPanjang\t: 25 cm.</li>" +
-                    "                   <li>-\tLebar\t\t: 9 cm.</li>" +
-                    "                   <li>-\tTinggi\t\t: 4 cm.</li>" +
-                    "               </ul>" +
+                    "            <li>\tBalok kayu berukuran :" +
+                    "                   <br>(a)\tPanjang\t: 25 cm." +
+                    "                   <br>(b)tLebar\t\t: 9 cm." +
+                    "                   <br>(c)\tTinggi\t\t: 4 cm." +
+                    "            </li>\n" +
                     "            <li>\tBendera start.</li>\n" +
                     "            <li>\tTali finish.</li>\n" +
-                    "        </ul>\n\n",
+                    "        </ul>\n\n<br>",
             "BsffRraIzek"
         ),
         ItemFFC( //
@@ -185,7 +177,7 @@ object FullData {
                     "            <li>\tKelompok yang sedang bermain berusaha agar tubuhnya tidak tersentuh oleh tim yang menjaga dan berusaha sampai di garis finish.</li>\n" +
                     "            <li>\tTim dapat dikatakan menang jika semua anggota tim kembali dengan selamat ke garis start.</li>\n" +
                     "            <li>\tTim dikatakan kalah dan baru bisa terjadi pergantian posisi jika ada yang tersentuh oleh tim yang menjaga.</li>\n" +
-                    "        </ul>\n\n" +
+                    "        </ul>\n\n<br>" +
                     "<b>Aturan Permainan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tPemain terdiri dari 2 regu masing- masing 5 orang dan 3 cadangan.</li>\n" +
@@ -206,7 +198,7 @@ object FullData {
                     "            <li>\tPenjaga garis tengah atau sodor sentuhan sah hanya berlaku pada awal garis sampai garis belakang.</li>\n" +
                     "            <li>\tPergantian pemain dilakukan pada saat: berhenti istirahat, time out. Max 3 kali pergantian selama pertandingan.</li>\n" +
                     "            <li>\tPergantian dari penyerang ke penjaga atau sebaliknya ditentukan oleh wasit dengan membunyikan peluit setelah: penjaga menyentuh penyerang, kaki penyerang keluar garis, penyerang berbalik masuk petak di belakang yang telah dilaluinya, penyerang yang telah menginjak garis di depannya dan menarik kembali kakinya, tidak ada perubahan posisi dari penyerang pada petak di depannya selama 2 menit.</li>\n" +
-                    "        </ul>\n\n"+
+                    "        </ul>\n\n<br>"+
                     "<b>Peralatan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tBendera untuk hakim garis dengan ukuran 30 x 30cm, panjang tangkai 40cm. Bendera berwarna hijau dan merah berbentuk persegi empat.</li>\n" +
@@ -215,7 +207,7 @@ object FullData {
                     "            <li>\tPeluit.</li>\n" +
                     "            <li>\tStopwatch.</li>\n" +
                     "            <li>\tMeja dan kursi untuk kesekretariatan.</li>\n" +
-                    "        </ul>\n\n",
+                    "        </ul>\n\n<br>",
             "6i6MHGRjusk"
         ),
         ItemFFC( //
@@ -233,7 +225,7 @@ object FullData {
                     "            <li>\tTempatkan tawanan/sandera di sekitar benteng musuh.</li>\n" +
                     "            <li>\tAnggota tim yang tertangkap/tersandera dapat dibebaskan oleh anggota tim yang lain dengan cara menyentuh tangan atau anggota tubuhnya.</li>\n" +
                     "            <li>\tTim pemenang adalah tim yang terlebih dahulu merebut benteng musuh dengan menyentuh tiang/benda yang telah dipilih lawan sebagai benteng dan menyerukan kata ‘Benteng!’.</li>\n" +
-                    "        </ul>\n\n" +
+                    "        </ul>\n\n<br>" +
                     "<b>Aturan Permainan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tMasing-masing kelompok memilih tiang atau pilar yang dijadikan benteng.</li>\n" +
@@ -241,7 +233,7 @@ object FullData {
                     "            <li>\tPemain harus sering kembali menyentuh bentengnya karena “penawan” dan “tertawan” ditentukan dari waktu terakhir menyentuh benteng.</li>\n" +
                     "            <li>\tPemain yang paling dekat waktunya menyentuh benteng berhak menjadi penawan untuk menyentuh anggota lawan yang hendak dijadikan tawanan.</li>\n" +
                     "            <li>\tPemenang adalah kelompok yang dapat menyentuh tiang atau pilar lawan sambil meneriakkan kata “benteng”.</li>\n" +
-                    "        </ul>\n\n"+
+                    "        </ul>\n\n<br>"+
                     "<b>Peralatan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tlapangan benteng pendem berbentuk persegi panjang.</li>\n" +
@@ -252,7 +244,7 @@ object FullData {
                     "            <li>\tGaris menggunakan kapur cattail.</li>\n" +
                     "            <li>\tPeluit.</li>\n" +
                     "            <li>\tStopwatch.</li>\n" +
-                    "        </ul>\n\n",
+                    "        </ul>\n\n<br>",
             "BZ9ebfOj3P8"
         ),
         ItemFFC( //
@@ -266,7 +258,7 @@ object FullData {
                     "            <li>\tSeluruh pemain bersiap-bersiap berada di posisi setiap tim.</li>\n" +
                     "            <li>\tWasit memberikan aba-aba ‘siap’, seluruh pemain memegang bambu bersiap melakukan dorongan.</li>\n" +
                     "            <li>\tWasit memberikan aba-aba ‘ya’, kedua tim saling mendorong untuk mengalahkan tim lawan.</li>\n" +
-                    "        </ul>\n\n" +
+                    "        </ul>\n\n<br>" +
                     "<b>Aturan Permainan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tMasing-masing kelompok memilih tiang atau pilar yang dijadikan benteng.</li>\n" +
@@ -274,7 +266,7 @@ object FullData {
                     "            <li>\tPemain harus sering kembali menyentuh bentengnya karena “penawan” dan “tertawan” ditentukan dari waktu terakhir menyentuh benteng.</li>\n" +
                     "            <li>\tPemain yang paling dekat waktunya menyentuh benteng berhak menjadi penawan untuk menyentuh anggota lawan yang hendak dijadikan tawanan.</li>\n" +
                     "            <li>\tPemenang adalah kelompok yang dapat menyentuh tiang atau pilar lawan sambil meneriakkan kata “benteng”.</li>\n" +
-                    "        </ul>\n\n"+
+                    "        </ul>\n\n<br>"+
                     "<b>Peralatan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tlapangan benteng pendem berbentuk persegi panjang.</li>\n" +
@@ -285,7 +277,7 @@ object FullData {
                     "            <li>\tGaris menggunakan kapur cattail.</li>\n" +
                     "            <li>\tPeluit.</li>\n" +
                     "            <li>\tStopwatch.</li>\n" +
-                    "        </ul>\n\n",
+                    "        </ul>\n\n<br>",
             "UtKnNmhJdIU"
         ),
         ItemFFC( //
@@ -300,16 +292,16 @@ object FullData {
                     "            <li>\tJika dapat ditangkap oleh lawan, maka permainan digantikan oleh lawan.</li>\n" +
                     "            <li>\tJika tidak tertangkap, maka induk patok lele diletakkan pada lubang kemudian anak patok lele yang tidak tertangkap oleh lawan akan dilemparkan pada induk yang ada pada lubang.</li>\n" +
                     "            <li>\tKalau kena, maka permainan diganti oleh lawan, jika tidak maka si pemain akan melanjutkan permainannya.</li>\n" +
-                    "        </ul>\n\n" +
+                    "        </ul>\n\n<br>" +
                     "<b>Aturan Permainan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tTidak ada aturan khusus dalam permainan tradisional patok lele.</li>\n" +
-                    "        </ul>\n\n"+
+                    "        </ul>\n\n<br>"+
                     "<b>Peralatan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\t2 potong kayu.</li>\n" +
                     "            <li>\tTanah berlubang/ 2 buah bata.</li>\n" +
-                    "        </ul>\n\n",
+                    "        </ul>\n\n<br>",
             "2v-KPOcw9AQ"
         ),
         ItemFFC( //
@@ -324,17 +316,17 @@ object FullData {
                     "            <li>\tSetelah siap, wasit memberikan aba-aba ‘siap’, pemain sudah memegang tali serta konsentrasi untuk aba-aba berikutnya.</li>\n" +
                     "            <li>\tSaat wasit memberikan aba-aba ‘ya’, maka kedua memberikan tarikan, berusaha menarik lawan hingga melebihi batas yang sudah ditentukan.</li>\n" +
                     "            <li>\tJika salah satu tim melewati batas yang sudah ditentukan, maka dapat dinyatakan sebagai pemenang.</li>\n" +
-                    "        </ul>\n\n" +
+                    "        </ul>\n\n<br>" +
                     "<b>Aturan Permainan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tPeserta beregu putra maupun putri, dengan jumlah menyesuaikan.</li>\n" +
                     "            <li>\tWasit berjumlah 3, dengan 1 wasit meniup peluit, dan 2 wasit bertugas mengawasi garis batasan.</li>\n" +
-                    "        </ul>\n\n"+
+                    "        </ul>\n\n<br>"+
                     "<b>Peralatan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tLapangan.</li>\n" +
                     "            <li>\tTali tambang berukuran 30-50 meter, pada petengahan tali diberi tanda berupa cat/ pita.</li>\n" +
-                    "        </ul>\n\n",
+                    "        </ul>\n\n<br>",
             "BiNySpGYbDs"
         ),
         ItemFFC( //
@@ -351,18 +343,18 @@ object FullData {
                     "            <li>\tSelanjutnya, buatlah lingkaran di tanah sebagai pusat permainan.</li>\n" +
                     "            <li>\tBarulah setelah itu, masing-masing pemain melemparkan wingko ke arah lingkaran yang telah dibuat tadi.</li>\n" +
                     "            <li>\tPemain yang jarak wingkonya paling jauh dari lingkaran, ialah yang menjadi penjaga.</li>\n" +
-                    "        </ul>\n\n" +
+                    "        </ul>\n\n<br>" +
                     "<b>Aturan Permainan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tPara pemain yang tidak menjadi penjaga harus bersembunyi secepatnya selama penjaga menata wingko secara vertikal, tepat di tengah lingkaran.</li>\n" +
                     "            <li>\tSetelah penjaga selesai menata wingko, maka ia harus mencari pemain-pemain yang bersembunyi.</li>\n" +
                     "            <li>\tApabila ia menemukan salah seorang pemain yang bersembunyi, maka ia harus memekikkan kata “tekong” dengan diikuti nama pemain.</li>\n" +
                     "            <li>\tTidak berhenti sampai disitu, penjaga harus berlari menuju lingkaran tempat wingko ditumpuk disertai dengan teriakan “gong”, tanda bahwa ia telah menyentuh lingkaran.</li>\n" +
-                    "        </ul>\n\n"+
+                    "        </ul>\n\n<br>"+
                     "<b>Peralatan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tSiapkan pecahan genteng.</li>\n" +
-                    "        </ul>\n\n",
+                    "        </ul>\n\n<br>",
             "zVuDIr9BFPg"
         ),
         ItemFFC( //
@@ -378,7 +370,7 @@ object FullData {
                     "            <li>\tPermainan dimulai dengan menggulirkan bola kertas oleh kelompok penembak ke arah piramida batu pipih hingga berantakan (kira-kira seperti menggelindingkan bola bowling ke sasarannya); sementara itu kelompok penyusun piramida bersiap-siap menyusun lagi batu-batu yang berantakan sambil mewaspadai serangan bola kertas.</li>\n" +
                     "            <li>\tPermainan selesai apabila piramida selesai disusun ATAU anggota kelompok yang bertujuan menyusun piramida telah semuanya gugur kena tembakan bola kertas dari kelompok lawan.</li>\n" +
                     "            <li>\tSetelah selesai, posisi kelompok ditukar yang tadinya kelompok penyusun piramida menjadi kelompok penembak dan sebaliknya.</li>\n" +
-                    "        </ul>\n\n" +
+                    "        </ul>\n\n<br>" +
                     "<b>Aturan Permainan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tDalam permainan dibagi menjadi dua tim beranggotakan 5 orang per tim.</li>\n" +
@@ -389,12 +381,12 @@ object FullData {
                     "            <li>\tJika tim penjaga berhasil menyerang semua anggota tim penyusun maka semuanya (-10) poin nilai dan push up 1 seri.</li>\n" +
                     "            <li>\tJumlah genteng/batu harus sesuai dengan jumlah awal agar permainan usai.</li>\n" +
                     "            <li>\tBila anggota tim penjaga melempar pada area vital anggota tim lawan, maka anggota tersebut (-10) poin nilai.</li>\n" +
-                    "        </ul>\n\n"+
+                    "        </ul>\n\n<br>"+
                     "<b>Peralatan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tBola kertas yang diisi batu lalu digumpal-gumpalkan menjadi kira-kira sebesar bola tenis.</li>\n" +
                     "            <li>\tPecahan genting, batu-batu pipih atau pecahan asbes; benda apa saja yang bisa disusun bertumpuk ke atas semacam piramida, sebanyak 15 keping/batu.</li>\n" +
-                    "        </ul>\n\n",
+                    "        </ul>\n\n<br>",
             "39WvnLNVJdE"
         ),
         ItemFFC( //
@@ -409,19 +401,19 @@ object FullData {
                     "            <li>\tSemua anak berdiri kira-kira satu meter dari lingkaran, di belakang sebuah garis.</li>\n" +
                     "            <li>\tSecara bergantian, lemparkan sebutir kelereng lainnya ke arah lingkaran.</li>\n" +
                     "            <li>\tAnak yang kelerengnya paling jauh dari lingkaran, boleh main lebih dulu.</li>\n" +
-                    "        </ul>\n\n" +
+                    "        </ul>\n\n<br>" +
                     "<b>Aturan Permainan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tSetiap pemain menggunakan 1 kelereng sebagai pemukul.</li>\n" +
                     "            <li>\tSetiap pemain bertaruh sejumlah kelereng. Adapun jumlahnya tergantung kesepakatan.</li>\n" +
                     "            <li>\tSemua taruhan kelereng akan diperebutkan oleh semua pemain sesuai dengan aturan.</li>\n" +
                     "            <li>\tKelereng yang dipertaruhkan tidak boleh bopeng/retak/pecah.</li>\n" +
-                    "        </ul>\n\n"+
+                    "        </ul>\n\n<br>"+
                     "<b>Peralatan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tGundu /Kelereng.</li>\n" +
                     "            <li>\tTanah Lapang.</li>\n" +
-                    "        </ul>\n\n",
+                    "        </ul>\n\n<br>",
             "I9LvryFAuGI"
         ),
         ItemFFC( //
@@ -442,15 +434,15 @@ object FullData {
                     "            <li>\tPemain akan dianggap mati atau gagal jika tidak bisa menangkap batu pada masing-masing tahap permainan kecuali tahap penangkapan dengan punggung tangan.</li>\n" +
                     "            <li>\tJika salah satu pemain gagal, maka itu waktunya pemain lain menjalankan permainan.</li>\n" +
                     "            <li>\tBegitu seterusnya hingga seluruh pemain menyelesaikan permainan ini.</li>\n" +
-                    "        </ul>\n\n" +
+                    "        </ul>\n\n<br>" +
                     "<b>Aturan Permainan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tTidak ada aturan khusus dalam permainan tradisional ukau.</li>\n" +
-                    "        </ul>\n\n"+
+                    "        </ul>\n\n<br>"+
                     "<b>Peralatan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\t5 buah kerikil.</li>\n" +
-                    "        </ul>\n\n",
+                    "        </ul>\n\n<br>",
             "y2iePDKOX-E"
         ),
         ItemFFC( //
@@ -469,18 +461,18 @@ object FullData {
                     "            <li>\tBila biji terakhir ternyata masuk ke lubang induk kita, berarti kita masih bisa memilih lubang lainnya untuk memulai lagi, tetapi jika ternyata saat biji terakhir diletakkan pada salah satu lubang kosong, berarti giliran untuk lawan kita.</li>\n" +
                     "            <li>\tBila lubang tempat biji terakhir itu ada di salah satu dari 5 lubang yang ada di baris kita, maka biji yang ada di seberang lubang tersebut beserta 1 biji terakhir yang ada di lubang kosong akan menjadi milik kita dan akan masuk dalam lubang induk kita.</li>\n" +
                     "            <li>\tSetelah semua baris kosong, maka permainan dimulai lagi dengan mengisi 5 lubang milik kita, masing-masing dengan 5 biji dari biji yang ada di lubang induk kita. Dimulai dari lubang yang terdekat dengan lubang induk, bila tidak mencukupi maka lubang lainnya dibiarkan kosong dan selama permainan tidak boleh diisi.</li>\n" +
-                    "        </ul>\n\n" +
+                    "        </ul>\n\n<br>" +
                     "<b>Aturan Permainan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tJika biji atau kerikil yang terakhir kena lubang yang kosong di daerahnya sendiri, sementara lubang lawan berisi, maka bijinya diambil sebagai kemenangan pihak sendiri.</li>\n" +
                     "            <li>\tApabila biji atau kerikil persis habis pada lubang lawan yang berisi tiga biji, maka bijinya diambil sebagai kemenangan lawan.</li>\n" +
                     "            <li>\tMasing-masing lubang tidak digunakan sebagai tempat biji atau kerikil kemenangan.</li>\n" +
-                    "        </ul>\n\n"+
+                    "        </ul>\n\n<br>"+
                     "<b>Peralatan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tKayu panjang yang tebalnya kurang dari 10 cm, berdiameter sekitar 20 cm dan panjang 50 cm. Kayu tersebut diberi lubang-lubang (bundar) dengan kedalaman kurang lebih 5 cm. Jumlah lubang seluruhnya adalah 12 buah, dengan rincian 10 lubang dibuat jejer dua (masing-masing jejer 5 lubang), kemudian dua lubang yang agak besar di setiap ujungnya.</li>\n" +
                     "            <li>\tPermainan ini juga menggunakan biji-biji pohon buah asam atau kerikil yang jumlahnya  antara 50-70 biji.</li>\n" +
-                    "        </ul>\n\n",
+                    "        </ul>\n\n<br>",
             "G2_cHWjT3Qg"
         ),
         ItemFFC( //
@@ -494,7 +486,7 @@ object FullData {
                     "            <li>\tSebelum permainan dimulai terlebih dahulu dibuat garis persegi panjang dan ditengah dibuat garis horizontal dan dua atau tiga garis vertikal.</li>\n" +
                     "            <li>\tBanyaknya garis vertikal tergantung pada jumlah pemain.</li>\n" +
                     "            <li>\tKemudian, masing-masing ketua regu bersuit, yang menang akan menjadi pemain dan yang kalah akan menjaga masing-masing garis dan ketua kelompok menjaga di depan garis atau garis mulai dan berakhir pada garis mulai kembali.</li>\n" +
-                    "        </ul>\n\n" +
+                    "        </ul>\n\n<br>" +
                     "<b>Aturan Permainan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tPemain terdiri dari dari dua regu.</li>\n" +
@@ -502,12 +494,12 @@ object FullData {
                     "            <li>\tPemain harus dapat melewati setiap garis yang dijaga ketat oleh lawan. Setiap penjaga garis dapat mengejar lawan dari ujung ke ujung garis.</li>\n" +
                     "            <li>\tSeandainya dapat menyentuh pemain maka pemain kalah dan digantikan dengan regu berikutnya.</li>\n" +
                     "            <li>\tJika pemain dapat melewati semua garis maka dialah pemenangnya dan permainan akan dilanjutkan lagi dengan regu yang sama.</li>\n" +
-                    "        </ul>\n\n"+
+                    "        </ul>\n\n<br>"+
                     "<b>Peralatan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tArea petak persegi panjang yang mempunyai panjang lapangan 15 meter dan lebar 9 meter. Kemudian area dibagi 6 petak dengan ukuran masing-masing petak 4,5 meter x 5 meter.</li>\n" +
                     "            <li>\tPinggir lapangan sebaiknya diberi tanda dengan kapur.</li>\n" +
-                    "        </ul>\n\n",
+                    "        </ul>\n\n<br>",
             "0lyK3dJqLqI"
         ),
         ItemFFC(
@@ -524,20 +516,20 @@ object FullData {
                     "            <li>\tPemain yang lain cepat-cepat bersembunyi.</li>\n" +
                     "            <li>\tPada hitungan ke-10, Pencari membuka mata dan mencari pemain yang lain. Setiap menemukan persembunyian seorang teman, Pencari meneriakkan nama teman itu lalu lari ke benteng untuk menepuk benteng sambil berkata “hong/tepong/skit”.</li>\n" +
                     "            <li>\tJika pemain dapat mendahului Pencari untuk menepuk benteng dan berteriak “hong/tepong/skit”, artinya pemain tersebut menang.</li>\n" +
-                    "        </ul>\n\n" +
+                    "        </ul>\n\n<br>" +
                     "<b>Aturan Permainan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tPermainan ini dimainkan oleh 3-6 orang.</li>\n" +
                     "            <li>\tPermainan tradisional ini dapat dimainkan laki-laki maupun perempuan.</li>\n" +
                     "            <li>\tPemain yang bertugas sebagai Pencari tidak boleh mengintip saat menutup mata dan berhitung.</li>\n" +
                     "            <li>\tJika terbukti melakukan kecurangan maka pemain didiskualifikasi.</li>\n" +
-                    "        </ul>\n\n"+
+                    "        </ul>\n\n<br>"+
                     "<b>Peralatan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tLapangan.</li>\n" +
                     "            <li>\tTiang, dinding, atau pohon.</li>\n" +
                     "            <li>\tTempat persembunyian.</li>\n" +
-                    "        </ul>\n\n",
+                    "        </ul>\n\n<br>",
             "u-6kIVMldqw"
         ),
         ItemFFC( //
@@ -553,18 +545,18 @@ object FullData {
                     "            <li>\tKemudian, permainan diawali dengan satu persatu anggota tim pemain melompat di sela-sela bambu dan menghindari jepitan.</li>\n" +
                     "            <li>\tSemakin lama irama bambu dan nyanyian akan semakin cepat, sehingga pemain harus lincah dalam melompat.</li>\n" +
                     "            <li>\tJika pemain tersebut terjepit kakinya, kedua tim berganti peran.</li>\n" +
-                    "        </ul>\n\n" +
+                    "        </ul>\n\n<br>" +
                     "<b>Aturan Permainan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tMembagi pemain menjadi 2 kelompok main dan jaga.</li>\n" +
                     "            <li>\tKelompok jaga menggerak-gerakkan bambu (empat orang berjongkok membentuk bidang persegi dan memegang dua bambu) sambil menyanyikan lagu tari tongkat.</li>\n" +
                     "            <li>\tKelompok pemain yang mendapat giliran menari sambil menghindari jepitan bambu.</li>\n" +
-                    "        </ul>\n\n"+
+                    "        </ul>\n\n<br>"+
                     "<b>Peralatan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tEmpat bambu dengan panjang masing-masing dua meter.</li>\n" +
                     "            <li>\tTanah Lapang.</li>\n" +
-                    "        </ul>\n\n",
+                    "        </ul>\n\n<br>",
             "9bhLVVV-NTY"
         ),
         ItemFFC( //
@@ -580,18 +572,18 @@ object FullData {
                     "            <li>\tMasing-masing pemain tim serang, dari pangkalan harus berusaha melewati semua garis melintang. Dan jika salah satu pemain saja bisa kembali lagi ke pangkalan tanpa tersentuh tim jaga maka tim serang menang.</li>\n" +
                     "            <li>\tBila pemain tim jaga bisa menyentuh salah satu pemain tim serang, maka tim jaga menang. Lalu tim jaga berganti menjadi tim serang. Begitu seterusnya.</li>\n" +
                     "            <li>\tJika satu petak terisi 2 atau lebih pemain maka tim serang kalah, dan berganti jadi tim jaga.</li>\n" +
-                    "        </ul>\n\n" +
+                    "        </ul>\n\n<br>" +
                     "<b>Aturan Permainan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tJumlah pemain dalam permainan Gobak Sodor harus berjumlah genap antara 6-10 anak.</li>\n" +
                     "            <li>\tKemudian dibagi menjadi dua tim, tim jaga dan tim serang. Jadi setiap tim beranggotakan 3-5 anak.</li>\n" +
                     "            <li>\tPermainan gobak sodor dapat dimainkan laki-laki maupun perempuan.</li>\n" +
-                    "        </ul>\n\n"+
+                    "        </ul>\n\n<br>"+
                     "<b>Peralatan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tLapangan.</li>\n" +
                     "            <li>\tKapur / batu bata.</li>\n" +
-                    "        </ul>\n\n",
+                    "        </ul>\n\n<br>",
             "LRe2g337cMM"
         ),
         ItemFFC( //
@@ -610,18 +602,18 @@ object FullData {
                     "            <li>\tBila biji terakhir ternyata masuk ke lubang induk kita, berarti kita masih bisa memilih lubang lainnya untuk memulai lagi, tetapi jika ternyata saat biji terakhir diletakkan pada salah satu lubang kosong, berarti giliran untuk lawan kita.</li>\n" +
                     "            <li>\tBila lubang tempat biji terakhir itu ada di salah satu dari 5 lubang yang ada di baris kita, maka biji yang ada di seberang lubang tersebut beserta 1 biji terakhir yang ada di lubang kosong akan menjadi milik kita dan akan masuk dalam lubang induk kita.</li>\n" +
                     "            <li>\tSetelah semua baris kosong, maka permainan dimulai lagi dengan mengisi 5 lubang milik kita, masing-masing dengan 5 biji dari biji yang ada di lubang induk kita. Dimulai dari lubang yang terdekat dengan lubang induk, bila tidak mencukupi maka lubang lainnya dibiarkan kosong dan selama permainan tidak boleh diisi.</li>\n" +
-                    "        </ul>\n\n" +
+                    "        </ul>\n\n<br>" +
                     "<b>Aturan Permainan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tJika biji atau kerikil yang terakhir kena lubang yang kosong di daerahnya sendiri, sementara lubang lawan berisi, maka bijinya diambil sebagai kemenangan pihak sendiri.</li>\n" +
                     "            <li>\tApabila biji atau kerikil persis habis pada lubang lawan yang berisi tiga biji, maka bijinya diambil sebagai kemenangan lawan.</li>\n" +
                     "            <li>\tMasing-masing lubang tidak digunakan sebagai tempat biji atau kerikil kemenangan.</li>\n" +
-                    "        </ul>\n\n"+
+                    "        </ul>\n\n<br>"+
                     "<b>Peralatan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tKayu panjang yang tebalnya kurang dari 10 cm, berdiameter sekitar 20 cm dan panjang 50 cm. Kayu tersebut diberi lubang-lubang (bundar) dengan kedalaman kurang lebih 5 cm. Jumlah lubang seluruhnya adalah 12 buah, dengan rincian 10 lubang dibuat jejer dua (masing-masing jejer 5 lubang), kemudian dua lubang yang agak besar di setiap ujungnya.</li>\n" +
                     "            <li>\tBiji-biji pohon buah asam atau kerikil yang jumlahnya  antara 50-70 biji.</li>\n" +
-                    "        </ul>\n\n",
+                    "        </ul>\n\n<br>",
             "x6wAy66hodg"
         ),
         ItemFFC( //
@@ -634,18 +626,18 @@ object FullData {
                     "        <ul>\n" +
                     "            <li>\tBerlomba secepat mungkin berjalan menggunakan batok kelapa tadi dari satu sisi lapangan ke sisi lapangan lainnya.</li>\n" +
                     "            <li>\tOrang yang paling cepat dia lah yang menjadi pemenangnya.</li>\n" +
-                    "        </ul>\n\n" +
+                    "        </ul>\n\n<br>" +
                     "<b>Aturan Permainan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tUntuk egrang batok kelapa, naik dan berpijak ke batok kelapa. Pegang tali egrang, ketika berjalan kaki melangkah seperti biasa sambil menarik tali egrang agar pijakan tidak terlepas.</li>\n" +
                     "            <li>\tBila anak sudah terampil, ia bisa berlomba adu cepat jalan egrang bersama teman-temannya.</li>\n" +
-                    "        </ul>\n\n"+
+                    "        </ul>\n\n<br>"+
                     "<b>Peralatan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tBatok kelapa.</li>\n" +
                     "            <li>\tTali.</li>\n" +
                     "            <li>\tTanah Lapang.</li>\n" +
-                    "        </ul>\n\n",
+                    "        </ul>\n\n<br>",
             "X3q32pQzYZE"
         ),
         ItemFFC( //
@@ -663,24 +655,23 @@ object FullData {
                     "            <li>\tSesudah itu, lakukan juga tendangan ke arah samping di bawah kiri dengan posisi terbaring. Sementara itu, posisikan tangan kiri di depan kepala dengan tangan kanan yang digunakan sebagai tumpuan badan.</li>\n" +
                     "            <li>\tPosisikan kaki kiri di depan sempok dengan posisi tangan kanan menjunjung tinggi ke atas. Junjungan tangan kanan ini merupakan wakil dari menjunjung kebenaran.</li>\n" +
                     "            <li>\tPutar badan ke arah kanan dan lakukan tangkisan ke arah samping kanan. Kuda-kuda yang digunakan dalam gerakan ini merupakan kuda-kuda depan kanan.</li>\n" +
-                    "        </ul>\n\n" +
+                    "        </ul>\n\n<br>" +
                     "<b>Aturan Permainan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tTeguran, diberikan apabila pesilat melakukan pelanggaran ringan.</li>\n" +
                     "            <li>\tPeringatan I, apabila pesilat mendapatkan teguran ke-3 dalam satu babak dikarenakan pelanggaran ringan. Peringatan ini akan di kurangi lima (5).</li>\n" +
                     "            <li>\tPeringatan II, diberikan apabila pesilat mendapatkan Peringatan I, Peringatan II, dan nilai dikurangi sepuluh (10).</li>\n" +
-                    "            <li>\tDiskualifikasi diberikan apabila pesilat :</li>\n" +
-                    "               <ul>" +
-                    "                   <li>a.\tMemperoleh peringatan sesudah peringatan II..</li>" +
-                    "                   <li>b.\tMelakukan pelanggaran berat yang didorong oleh unsur kesengajaan dan bertentangan dengan norma keolahragaan.</li>" +
-                    "                   <li>c.\tMelakukan pelanggaran tingkat pertama serta lawan cidera sehingga tidak dapat melanjutkan pertandingan atas keputusan dokter pertandingan.</li>" +
-                    "               </ul>" +
-                    "        </ul>\n\n"+
+                    "            <li>\tDiskualifikasi diberikan apabila pesilat :" +
+                    "                   <br>(a)\tMemperoleh peringatan sesudah peringatan II." +
+                    "                   <br>(b)\tMelakukan pelanggaran berat yang didorong oleh unsur kesengajaan dan bertentangan dengan norma keolahragaan." +
+                    "                   <br>(c)\tMelakukan pelanggaran tingkat pertama serta lawan cidera sehingga tidak dapat melanjutkan pertandingan atas keputusan dokter pertandingan." +
+                    "            </li>\n" +
+                    "        </ul>\n\n<br>"+
                     "<b>Peralatan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tArea laga.</li>\n" +
                     "            <li>\tPakaian silat lengkap.</li>\n" +
-                    "        </ul>\n\n",
+                    "        </ul>\n\n<br>",
             "khXZYbzQ37Y"
         ),
         ItemFFC( //
@@ -697,19 +688,29 @@ object FullData {
                     "            <li>\tPada babak penyisihan pertama, kedua, ketiga dan keempat, permainan menggunakan sistem gugur. Sapi-sapi pacuan yang sudah dinyatakan kalah, tidak berhak lagi mengikuti pertandingan babak selanjutnya.</li>\n" +
                     "            <li>\tSedangkan, sapi yang dinyatakan sebagai pemenang, akan berhadapan lagi dengan pemenang dari pertandingan lainnya.</li>\n" +
                     "            <li>\tBegitu seterusnya hingga tinggal satu permainan terakhir yang selalu menang menjadi juaranya.</li>\n" +
-                    "        </ul>\n\n" +
+                    "        </ul>\n\n<br>" +
                     "<b>Aturan Permainan :</b>\n" +
                     "        <ul>\n" +
-                    "            <li>\tSebelum Pertandingan\n" +
-                    "\tSapi-sapi yang akan ditandingkan dalam kerap harus memenuhi peraturan sebagai berikut: (1). Tinggi badan minimal 120 cm, (2). Berbadan sehat dan berkulit bagus dengan dibuktikan oleh keterangan sehat dari dokter hewan, (3). Umur sapi cukup dengan tanda gigi yang tanggal, (4). Kedua tanduk sapi bagus, (5). Tidak membolehkan sapi diolesi oleh pemanas, misalkan balsem atau cabe.</li>\n" +
-                    "            <li>\tWaktu Pertandingan\n" +
-                    "\tAturan dalam pertandingan adalah sebagai berikut : (1). Sepasang sapi harus dinaiki oleh seorang 'tokang tongko'/joki, (2). Joki harus diberi 'selempang' berbeda antara joki lainnya, (3). Joki tidak boleh membawa 'tak gartak' yang terbuat dari barang-barang runcing yang menyakiti sapi,  (4). Sepasang sapi dianggap pemenang apabila kaki depan telah menginjakkan kaki atau melompati garis finish, (5). Perlombaan dimulai apabila pertugas pemegang bendera di garis start melambaikan bendera dari bawah ke atas.</li>\n" +
-                    "            <li>\tSetelah Pertandingan.</li>\n" +
-                    "               <ul>" +
-                    "                   <li>a.\tAturan setelah pertandingan adalah sebagai berikut :</li>" +
-                    "                   <li>b.\tSegera setelah menginjak finish, sapi dan joki harus segera ditangkap agar tidak lari ke mana.</li>" +
-                    "               </ul>" +
-                    "        </ul>\n\n"+
+                    "            <li>\tSebelum Pertandingan\n<br>" +
+                    "               Sapi-sapi yang akan ditandingkan dalam kerap harus memenuhi peraturan sebagai berikut: " +
+                    "                   <br>(1). Tinggi badan minimal 120 cm, " +
+                    "                   <br>(2). Berbadan sehat dan berkulit bagus dengan dibuktikan oleh keterangan sehat dari dokter hewan, " +
+                    "                   <br>(3). Umur sapi cukup dengan tanda gigi yang tanggal, " +
+                    "                   <br>(4). Kedua tanduk sapi bagus, " +
+                    "                   <br>(5). Tidak membolehkan sapi diolesi oleh pemanas, misalkan balsem atau cabe.</li>\n" +
+                    "            <li>\tWaktu Pertandingan\n<br>" +
+                    "               Aturan dalam pertandingan adalah sebagai berikut : " +
+                    "                   <br>(1). Sepasang sapi harus dinaiki oleh seorang 'tokang tongko'/joki, " +
+                    "                   <br>(2). Joki harus diberi 'selempang' berbeda antara joki lainnya, " +
+                    "                   <br>(3). Joki tidak boleh membawa 'tak gartak' yang terbuat dari barang-barang runcing yang menyakiti sapi,  " +
+                    "                   <br>(4). Sepasang sapi dianggap pemenang apabila kaki depan telah menginjakkan kaki atau melompati garis finish, " +
+                    "                   <br>(5). Perlombaan dimulai apabila pertugas pemegang bendera di garis start melambaikan bendera dari bawah ke atas." +
+                    "            </li>" +
+                    "            <li>\tSetelah Pertandingan." +
+                    "                   <br>(a)\tAturan setelah pertandingan adalah sebagai berikut" +
+                    "                   <br>(b)\tSegera setelah menginjak finish, sapi dan joki harus segera ditangkap agar tidak lari ke mana." +
+                    "            </li>\n" +
+                    "        </ul>\n\n<br>"+
                     "<b>Peralatan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tSapi.</li>\n" +
@@ -719,7 +720,7 @@ object FullData {
                     "            <li>\tBendera.</li>\n" +
                     "            <li>\tSelempang.</li>\n" +
                     "            <li>\tKayu sebagai injakan Joki.</li>\n" +
-                    "        </ul>\n\n",
+                    "        </ul>\n\n<br>",
             "fjOdPILP0dQ"
         ),
         ItemFFC( //
@@ -733,7 +734,7 @@ object FullData {
                     "            <li>\tBerdiri satu kaki, kaki yang satunya diangkat setinggi lutut dan dibengkokkan.</li>\n" +
                     "            <li>\tSaat menendang bola gerakan kaki dari bawah ke atas, untuk arah dan kecepatan disesuaikan dengan kebutuhan.</li>\n" +
                     "            <li>\tPandangan fokus ke bola dan kemudian ke arah sasaran yang diinginkan.</li>\n" +
-                    "        </ul>\n\n" +
+                    "        </ul>\n\n<br>" +
                     "<b>Aturan Permainan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tPemain tidak boleh menyentuh bola dengan tangan.</li>\n" +
@@ -741,13 +742,13 @@ object FullData {
                     "            <li>\tPosisi pemain bertahan tidak diputar.</li>\n" +
                     "            <li>\tAngka kemenangan setiap set maksimum 21 angka, kecuali pada saat posisi angka 20-20, pemenang akan ditentukan pada saat selisih dua angka sampai batas akhir 25 poin, ketika 20-20 wasit utama menyerukan batas angka 25 poin.</li>\n" +
                     "            <li>\tApabila masing-masing regu memenangkan satu set, maka pemain akan dilanjutkan dengan set “Tie Break” dengan 15 poin kecuali pada posis 14-14, pemenang akan ditentukan pada selisih dua angka sampai batas akhirnya angka 17.</li>\n" +
-                    "        </ul>\n\n"+
+                    "        </ul>\n\n<br>"+
                     "<b>Peralatan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tLapangan sepak takraw berbentuk persegi panjang dengan ukuran panjang keseluruhan mencapai 13,4 meter.</li>\n" +
                     "            <li>\tBola takraw dari rotan.</li>\n" +
                     "            <li>\tScore sheet.</li>\n" +
-                    "        </ul>\n\n",
+                    "        </ul>\n\n<br>",
             "oaLJlQOfMQc"
         ),
         ItemFFC( //
@@ -761,20 +762,20 @@ object FullData {
                     "            <li>\tSeluruh pemain berdiri di belakang garis start.</li>\n" +
                     "            <li>\tSaat diberi aba-aba, seluruh pemain masuk kedalam karung dan memegang karung dengan kuat.</li>\n" +
                     "            <li>\tKemudian seluruh pemain melompat dengan menggunakan karung hingga garis finish.</li>\n" +
-                    "        </ul>\n\n" +
+                    "        </ul>\n\n<br>" +
                     "<b>Aturan Permainan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tSeluruh pemain harus tetap berada di dalam karung.</li>\n" +
                     "            <li>\tPemain melakukan start setelah terdapat aba-aba yang telah ditentukan.</li>\n" +
                     "            <li>\tPemain dilarang mendorong atau mengganggu pemain lain.</li>\n" +
-                    "        </ul>\n\n"+
+                    "        </ul>\n\n<br>"+
                     "<b>Peralatan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tLapangan.</li>\n" +
                     "            <li>\tGaris start dan finish.</li>\n" +
                     "            <li>\tKarung.</li>\n" +
                     "            <li>\tPeluit.</li>\n" +
-                    "        </ul>\n\n",
+                    "        </ul>\n\n<br>",
             "clWMX50WUwo"
         ),
         ItemFFC( //
@@ -795,7 +796,7 @@ object FullData {
                     "            <li>\tRegu dianggap sah, apabila peserta terakhir dan ujung terompah bagian belakang melewati garis finish dengan tidak ada kesalahan selama dalam perjalanan.</li>\n" +
                     "            <li>\tPeserta/regu dianggap gugur apabila,tidak berhasil mencapai garis finish, menginjak lintasan peserta lain, dengan sengaja mengganggu peserta lain, salah satu kaki atau kedua kaki menginjak tanah artinya salah satu kaki atau kedua kaki tidak ada kontak dengan terompah, terompah rusak ditengah jalan, regu yang gugur tidak perlu meneruskan sampai garis finish.</li>\n" +
                     "            <li>\tUntuk regu yang dinyatakan sebagai pemenang apabila regu tersebut paling cepat memasuki garis finish.</li>\n" +
-                    "        </ul>\n\n" +
+                    "        </ul>\n\n<br>" +
                     "<b>Aturan Permainan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tSatu regu terdiri dari 5 orang pemain putra dan 2 cadangan.</li>\n" +
@@ -806,12 +807,11 @@ object FullData {
                     "            <li>\tSetelah berbalik urutan posisi pemain harus sama seperti sebelumnya.</li>\n" +
                     "            <li>\tPada saat mengangkat terompah untuk berbalik, tidak boleh mengganggu pemain lain.</li>\n" +
                     "            <li>\tPada saat finish, terompah bagian belakang harus melewati garis finish.</li>\n" +
-                    "            <li>\tDinyatakan diskualifikasi jika</li>\n" +
-                    "               <ul>" +
-                    "                   <li>a.\tTerompah menyentuh garis lintasan</li>" +
-                    "                   <li>b.\tJika kaki peserta menyentuh tanah.</li>" +
-                    "               </ul>" +
-                    "        </ul>\n\n"+
+                    "            <li>\tDinyatakan diskualifikasi jika :" +
+                    "                   <br>(a)\tTerompah menyentuh garis lintasan" +
+                    "                   <br>(b)\tJika kaki peserta menyentuh tanah." +
+                    "            </li>\n" +
+                    "        </ul>\n\n<br>"+
                     "<b>Peralatan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tBendera atau peluit.</li>\n" +
@@ -821,7 +821,7 @@ object FullData {
                     "            <li>\tMeteran gulung ukuran 50 meter.</li>\n" +
                     "            <li>\tMeja dan kursi untuk kesekretariatan.</li>\n" +
                     "            <li>\tTerompah : Dibuat dari balok/papan.</li>\n" +
-                    "        </ul>\n\n",
+                    "        </ul>\n\n<br>",
             "2RTz3M17Zpk"
         ),
         ItemFFC( //
@@ -835,7 +835,7 @@ object FullData {
                     "            <li>\tPertama, bola dan biji bekel itu digenggam menjadi satu, kemudian bola dilempar setinggi kurang lebih 30 cm. Setelah bolanya turun dan memantul, biji bekel dilepas dalam posisi acak. Lempar lagi bolanya, lalu kita ambil biji bekel satu per satu, dua-dua, tiga-tiga, dan seterusnya sampai habis.</li>\n" +
                     "            <li>\tKedua, biji bekel yang sudah dilepas dari genggaman dibalikkan hingga posisinya menghadap ke atas atau istilahnya ‘mlumah’. Kemudian, semua biji bekel dibalikkan lagi menjadi posisi tengkurap atau ‘mengkurep’. Setelah itu, biji bekel diubah lagi posisinya hingga sisi yang halus menghadap ke atas. Dan terakhir, ubah lagi posisinya hingga sisi yang halus menghadap ke bawah.</li>\n" +
                     "            <li>\tKetiga, permainan akan dinyatakan berakhir/berhenti atau istilahnya mati, jika saat pengambilan biji bekel tangan si pemain mengenai atau menyentuh biji bekel yang lain. Pemain yang lebih dulu menyelesaikan permainan, dialah yang pemenangnya.</li>\n" +
-                    "        </ul>\n\n" +
+                    "        </ul>\n\n<br>" +
                     "<b>Aturan Permainan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tTahap pertama posisi biji bekel bebas.</li>\n" +
@@ -844,12 +844,12 @@ object FullData {
                     "            <li>\tTahapan yang paling akhir dinamakan nasgospel. Pada tahap ini anak diharuskan untuk menghadapkan seluruh posisi biji bekel ke atas. Kemudian menghadapkan seluruh biji bekel ke bawah. Setelah itu, anak harus meraup seluruh biji bekel dengan satu genggaman. Peraupan bisa dilakukan oleh dua tangan.</li>\n" +
                     "            <li>\tJika anak tidak dapat meraup seluruh biji bekel, maka anak dinyatakan kalah. Seandainya anak kalah, anak harus mengulang pada tahapan awal nasgospel.</li>\n" +
                     "            <li>\tApabila anak mampu melewati tahapan nasgospel, maka anak dinyatakan menang dan dapat beristirahat sambil menunggu teman-temannya menyelesaikan permainan.</li>\n" +
-                    "        </ul>\n\n"+
+                    "        </ul>\n\n<br>"+
                     "<b>Peralatan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tBola karet.</li>\n" +
                     "            <li>\tBiji bekel/kericak.</li>\n" +
-                    "        </ul>\n\n",
+                    "        </ul>\n\n<br>",
             "6s8wLM3l7_o"
         ),
         ItemFFC( //
@@ -865,18 +865,18 @@ object FullData {
                     "            <li>\tKaret berlilit. Dimainkan oleh tiga orang atau lebih. Dua orang memegang ujung tali. Mereka akan membuat tinggi karet hanya sepinggang. Para pelompat akan bergantian memainkan tali karet dengan kakinya dan dibuat sehingga meliliti kakinya. Kemudian pemain tersebut melompat mengikuti lilitan tali karet tersebut.</li>\n" +
                     "            <li>\tKaret melingkar di kepala. Pemain dapat bermain sendiri dengan memutar tali karet dari bawah hingga kepala sambil melompat mengikuti putaran tali karetnya.</li>\n" +
                     "            <li>\tKaret tangan membentuk pola. Permainan ini yang paling sederhana, dan dimainkan oleh satu orang. Pemain menjalin sehelai karet di jemari tangannya membentuk gambar tertentu.</li>\n" +
-                    "        </ul>\n\n" +
+                    "        </ul>\n\n<br>" +
                     "<b>Aturan Permainan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tPara pemain melakukan hompipah untuk menentukan dua orang pemain yang menjadi pemegang tali.</li>\n" +
                     "            <li>\tKedua pemain yang menjadi pemegang tali melakukan hompipah untuk menentukan siapa yang akan mendapat giliran bermain terlebih dahulu jika ada pemain yang gagal melompat.</li>\n" +
                     "            <li>\tKedua pemain yang menjadi pemegang tali perentang tali karet dan pemain harus melompatinya satu persatu. ketinggian karet mulai dari setinggi mata kaki, lalu naik ke lutut, paha, hingga pinggang. Jika ada pemain yang menyentuh tali karet ketika melompat, gilirannya bermain selesai dan ia harus menggantikan pemain yang memegang tali.</li>\n" +
-                    "        </ul>\n\n"+
+                    "        </ul>\n\n<br>"+
                     "<b>Peralatan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tKaret.</li>\n" +
                     "            <li>\tLapangan.</li>\n" +
-                    "        </ul>\n\n",
+                    "        </ul>\n\n<br>",
             "LsNfJzwwxm4"
         ),
         ItemFFC( //
@@ -894,17 +894,17 @@ object FullData {
                     "            <li>\tUntuk peserta ketiga dan seterusnya akan diberikan pilihan untuk mengikuti kelompok yang mana, biasanya dengan dikasih kode mau bulan apa bumi.</li>\n" +
                     "            <li>\tSetelah tertangkap semua, maka permainan perebutan anggota antar kelompok dimulai.</li>\n" +
                     "            <li>\tKelompok yang anggotanya habis duluan ia adalah kelompok yang kalah.</li>\n" +
-                    "        </ul>\n\n" +
+                    "        </ul>\n\n<br>" +
                     "<b>Aturan Permainan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tPermainan tradisional ini dapat dimainkan oleh laki-laki maupun perempuan.</li>\n" +
                     "            <li>\tSetiap pemain menyanyikan lagu :\n" +
                     "\t“Ular naga panjangnya bukan kepalang, berjalan-jalan selalu riang kemari, umpan yang lezat itulah yang dicari, ini dianya yang terbelakang”.</li>\n" +
-                    "        </ul>\n\n"+
+                    "        </ul>\n\n<br>"+
                     "<b>Peralatan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tlapangan.</li>\n" +
-                    "        </ul>\n\n",
+                    "        </ul>\n\n<br>",
             "1ZE7gjwQMUo"
         ),
         ItemFFC( //
@@ -923,7 +923,7 @@ object FullData {
                     "            <li>\tLepaskan benang untuk membuat layang-layang mengangkasa lebih tinggi.</li>\n" +
                     "            <li>\tTariklah benang dengan ringan untuk menurunkan atau membuat layang-layang terbang lebih rendah.</li>\n" +
                     "            <li>\tBuatlah permainan layang-layang jadi lebih menyenangkan.</li>\n" +
-                    "        </ul>\n\n" +
+                    "        </ul>\n\n<br>" +
                     "<b>Aturan Permainan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tMenggunakan layang-layang yang sesuai dengan ukuran tubuh serta tenaga.</li>\n" +
@@ -931,13 +931,13 @@ object FullData {
                     "            <li>\tTidak menggunakan benang yang terlalu tajam sehingga dapat melukai anggota tubuh.</li>\n" +
                     "            <li>\tBermain dengan diawasi oleh orang dewasa.</li>\n" +
                     "            <li>\tTidak mengganggu pemain layang-layang lain.</li>\n" +
-                    "        </ul>\n\n"+
+                    "        </ul>\n\n<br>"+
                     "<b>Peralatan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tLayang - layang.</li>\n" +
-                    "            <li>\tSenar/ benang.</li>\n" +
+                    "            <li>\tSenar / benang.</li>\n" +
                     "            <li>\tLapangan.</li>\n" +
-                    "        </ul>\n\n",
+                    "        </ul>\n\n<br>",
             "EDPKaQpWXog"
         ),
         ItemFFC( //
@@ -953,17 +953,17 @@ object FullData {
                     "            <li>\tPada kalimat ”Sapa mau sing delekke” serahkan biji/ kerikil ke tangan seorang anak untuk disembunyikan dalam genggaman.</li>\n" +
                     "            <li>\tDi akhir lagu, semua anak menggenggam kedua tangan masing-masing, pura-pura menyembunyikan kerikil,  sambil menggerak-gerakkan tangan.</li>\n" +
                     "            <li>\tPak Empo bangun dan menebak di tangan siapa biji/ kerikil disembunyikan. Bila tebakannya benar, anak yang menggenggam biji/ kerikil gantian menjadi Pak Empo. Bila salah, Pak Empo kembali ke posisi semula dan permainan diulang lagi.</li>\n" +
-                    "        </ul>\n\n" +
+                    "        </ul>\n\n<br>" +
                     "<b>Aturan Permainan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tPermainan ini dapat dimainkan oleh laki-laki maupun perempuan.</li>\n" +
                     "            <li>\tJumlah pemain 5 atau lebih.</li>\n" +
                     "            <li>\tSetiap pemain wajib menyanyikan lagu cublak-cublak suweng secara bersamaan.</li>\n" +
-                    "        </ul>\n\n"+
+                    "        </ul>\n\n<br>"+
                     "<b>Peralatan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\t1 buah kerikil atau biji yang mudah digenggam.</li>\n" +
-                    "        </ul>\n\n",
+                    "        </ul>\n\n<br>",
             "18QWUOwQgzU"
         ),
         ItemFFC( //
@@ -979,18 +979,18 @@ object FullData {
                     "            <li>\tMulailah berhitung dari angka 1-3 sebelum akhirnya menarik tali dan melepaskan gasing ke permukaan yang datar.</li>\n" +
                     "            <li>\tGasing akan berputar dalam kurun waktu tertentu, dan gerakannya akan kian melambat. Tidak jarang dalam proses berputarnya, gasing akan bertabrakan dengan gasing lain.</li>\n" +
                     "            <li>\tGasing yang tidak terlempar dari arena atau yang paling lama berputarnya menjadi pemenangnya.</li>\n" +
-                    "        </ul>\n\n" +
+                    "        </ul>\n\n<br>" +
                     "<b>Aturan Permainan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tPermainan tradisional ini banyak dimainkan oleh laki-laki, namun perempuan juga diperbolehkan untuk bermain permainan tradisional ini.</li>\n" +
                     "            <li>\tGasing yang digunakan berasal dari bahan yang sama.</li>\n" +
                     "            <li>\tDilarang mengganggu atau mendekati area permainan gasing saat berlangsung.</li>\n" +
-                    "        </ul>\n\n"+
+                    "        </ul>\n\n<br>"+
                     "<b>Peralatan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tGasing dan tali.</li>\n" +
                     "            <li>\tLapangan atau daerah datar.</li>\n" +
-                    "        </ul>\n\n",
+                    "        </ul>\n\n<br>",
             "qoEZnNogyO8"
         ),
         ItemFFC( //
@@ -1003,7 +1003,7 @@ object FullData {
                     "        <ul>\n" +
                     "            <li>\tMemasukan peluru menggunakan tolak sampai ke ujung bedil laras.</li>\n" +
                     "            <li>\tSetelah itu dimasukkan peluru kedua dan ditolak dengan batang penolak.</li>\n" +
-                    "        </ul>\n\n" +
+                    "        </ul>\n\n<br>" +
                     "<b>Aturan Permainan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tBuatlah dua kelompok dan carilah tempat yang bisa digunakan untuk bersembunyi dan menembak.</li>\n" +
@@ -1011,12 +1011,12 @@ object FullData {
                     "            <li>\tPemain memiliki tiga kali kesempatan, jika sudah terkena tembakan selama tiga kali maka akan gugur.</li>\n" +
                     "            <li>\tRonde berlangsung 2 kali, jika seri maka akan diadakan ronde kedua.</li>\n" +
                     "            <li>\tDi awal permainan akan ada peraturan yang nantinya akan dilaksanakan untuk terciptanya keamanan dan ke sportifitas.</li>\n" +
-                    "        </ul>\n\n"+
+                    "        </ul>\n\n<br>"+
                     "<b>Peralatan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tLaras bedil berbentuk pipa, tolak, dan peluru terbuat dari bambu.</li>\n" +
                     "            <li>\tPeluru bisa terbuat dari kertas yang dibasahi, kembang, atau pentil jambu air.</li>\n" +
-                    "        </ul>\n\n",
+                    "        </ul>\n\n<br>",
             "jvZckdyInis"
         ),
         ItemFFC( //
@@ -1033,11 +1033,11 @@ object FullData {
                     "            <li>\tCelup ujung bilah pemicu ke dalam lubang picu lalu sulut ujung bilah picu dengan api. Lakukan pemanasan minyak dengan memasukkan bilah picu berapi ke dalam lubang picu.</li>\n" +
                     "            <li>\tSetelah minyak dalam meriam cukup panas yang ditandai permukaan bawah bagian meriam yang berisi minyak telah menjadi panas, maka meriam sudah dapat mulai dimainkan.</li>\n" +
                     "            <li>\tMemainkan meriam dilakukan dengan meniup asap dari lubang picu lalu menyulut lubang picu menggunakan bilah pemicu. Lakukan berulang kali. Pada awalnya meriam mengeluarkan suara sekedarnya saat lubang pemicu disulut api.</li>\n" +
-                    "        </ul>\n\n" +
+                    "        </ul>\n\n<br>" +
                     "<b>Aturan Permainan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tPermainan tradisional meriam bambu tidak memiliki aturan khusus di setiap daerah.</li>\n" +
-                    "        </ul>\n\n"+
+                    "        </ul>\n\n<br>"+
                     "<b>Peralatan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tMeriam bambu.</li>\n" +
@@ -1046,7 +1046,7 @@ object FullData {
                     "            <li>\tLampu minyak atau lilin sebagai sumber api.</li>\n" +
                     "            <li>\tBilah pemicu berupa potongan kayu kecil.</li>\n" +
                     "            <li>\tKorek api.</li>\n" +
-                    "        </ul>\n\n",
+                    "        </ul>\n\n<br>",
             "X_tEkZnXqEM"
         ),
         ItemFFC( //
@@ -1062,17 +1062,17 @@ object FullData {
                     "            <li>\tDia harus memakai kelereng yang ada di luar lingkaran sebagai “Penyerang” untuk memukul kelereng di dalam lingkaran keluar. Kalau berhasil melakukannya, maka ia boleh menyimpan setiap kelereng yang kena jentik.</li>\n" +
                     "            <li>\tKelereng “Penyerang” harus tetap tinggal di dalam lingkaran. Kalau tidak, maka anak yang memilikinya akan kehilangan kelereng tersebut.</li>\n" +
                     "            <li>\tPemenang adalah anak yang mengumpulkan kelereng atau gundu terbanyak.</li>\n" +
-                    "        </ul>\n\n" +
+                    "        </ul>\n\n<br>" +
                     "<b>Aturan Permainan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tPermainan ini banyak dimainkan oleh laki-laki, namun perempuan juga dapat memainkan permainan tradisional ini.</li>\n" +
                     "            <li>\tSetiap pemain melempar ‘neker’ tidak boleh melebihi garis yang telah ditentukan.</li>\n" +
-                    "        </ul>\n\n"+
+                    "        </ul>\n\n<br>"+
                     "<b>Peralatan :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tLapangan.</li>\n" +
                     "            <li>\tNeker atau gundu, atau kelereng.</li>\n" +
-                    "        </ul>\n\n",
+                    "        </ul>\n\n<br>",
             "MBhJDGNWHw8"
         )
     )

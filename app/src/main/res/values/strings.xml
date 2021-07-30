@@ -2,18 +2,4 @@
     <string name="app_name">FFC</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="test_layout">
-        <b>Cara bermain</b>
-        <ul>
-            <li>Menyiapkan Egrang.</li>
-            <li>Menegakkan Egrang dan sedikit condong ke depan.</li>
-            <li>Posisikan Egrang tidak sejajar. Salah satu kaki egrang harus di depan dan satunya di belakang.</li>
-            <li>Mulai menginjakkan salah satu kaki pada pijakan Egrang diikuti kaki satunya.</li>
-            <li>Mulai berjalan di tempat dan jangan berhenti jika tidak yakin pada posisi seimbang.</li>
-            <li>Jika merasa akan terjatuh, jatuhkan kaki di antara Egrang.</li>
-            <li>Usahakan bermain di tempat yang luas.</li>
-        </ul>
-    </string>
 </resources>

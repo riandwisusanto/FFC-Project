@@ -66,7 +66,7 @@ class fragment_home : Fragment() {
         }
 
         waBtn.setOnClickListener {
-            click("https://api.whatsapp.com/send?phone=+6285807215821")
+            click("https://api.whatsapp.com/send?phone=+6283827552246")
         }
         dialog.show()
     }
