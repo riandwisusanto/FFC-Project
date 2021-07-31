@@ -46,7 +46,6 @@ class fragment_detail_pindai : Fragment() {
         var vid = toString()
         fullData.forEach {
             if(it.nama.equals(titleDetail.text.toString())) {
-                deskripsiDetail.text = it.deskripsi
                 vid = it.video
             }
         }
