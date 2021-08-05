@@ -58,7 +58,7 @@ class fragment_home : Fragment() {
         }
 
         shopeBtn.setOnClickListener {
-            Toast.makeText(activity, "Belum Tersedia", Toast.LENGTH_SHORT).show()
+            click("https://shopee.co.id/ffc.id?v=d41&smtt=0.0.3")
         }
 
         tokoBtn.setOnClickListener {

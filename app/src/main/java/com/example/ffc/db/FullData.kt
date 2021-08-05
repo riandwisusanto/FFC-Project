@@ -394,7 +394,7 @@ object FullData {
             "Gundu",
             "Gundu (orang gundul L(x) )",
             "\tPermainan ini awalnya berasal dari peradaban Mesir Kuno sejak tahun 3000 Sebelum Masehi (SM). Di Mesir, kelereng terbuat dari tanah liat atau batu. Masyarakat Betawi mengenalnya dengan sebutan gundu.  Anak-anak Sunda mengetahui dengan sebutan kaleci. Orang Jawa menyebutnya dengan neker. Di Palembang disebut ekar, di Banjar Kleker dan kalau buat orang Belanda, namanya knikker. Adapun nilai-nilai yang bisa kita dapatkan dari permainan ini, yaitu relaksasi atau mengatur emosi, mengasah otak, melatih motorik, kesabaran, kecermatan, melatih karakter kompetitif, melatih kejujuran, hingga mengembangkan kemampuan sosial.",
-            "",
+            "jQ1fEAwBnHM",
             "<b>Cara Bermain :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tSemua anak menaruh sebutir kelereng di dalam lingkaran.</li>\n" +
@@ -421,7 +421,7 @@ object FullData {
             "Ukau",
             "Ukau (U + Kayu Y(x))",
             "\tUkau adalah permainan menggunakan batu kerikil kecil yang berjumlah 5 buah. Permainan ini dapat dimainkan oleh beberapa orang sekaligus. Ukau dimainkan oleh suku Dayak Kenyah di desa Rukun Damai. Permainan ini dapat dimainkan oleh beberapa orang sekaligus. Tidak ada aturan yang membatasi permainan ini. Permainan diawali dengan melempar secara pelan 5 batu tersebut ke lantai atau tanah. Ambil salah satu batu kemudian lempar ke atas dan secara bersamaan ambil 1 batu yang tergeletak di bawah. Lakukan hingga batu yang di bawah habis.",
-            "",
+            "hEnvErXS2xw",
             "<b>Cara Bermain :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tPermainan diawali dengan melempar secara pelan 5 batu tersebut ke lantai atau tanah.</li>\n" +
@@ -451,7 +451,7 @@ object FullData {
             "Manggaleceng (Mangga + Lonceng O=E N(x))",
             "\tBerdasarkan temuan arkeolog dari National Geographic, permainan ini ada sejak sekitar tahun 7.000-5.000 SM. Berasal dari kebudayaan kuno Timur Tengah, Maggaleceng di bawa ke daratan Afrika baru kemudian menyebar di Asia melalui para pedagang. Tidak mengherankan pula jika permainan ini di awal kedatangannya lebih banyak dimainkan oleh anak para bangsawan di Indonesia karena mereka yang lebih banyak berhubungan dengan para pedagang. \n" +
                     "\tDi Indonesia, kita lebih mengenalnya sebagai Congklak atau Dakon untuk di Jawa, Congkak untuk di beberapa daerah Sumatera berkebudayaan Melayu, Dentuman Lamban di Lampung, sedang di Sulawesi lebih dikenal dengan nama Mokaotan, Maggaleceng, atau Aggalacang. Dan ternyata masih ada 279 nama lain untuk permainan ini dari berbagai budaya di berbagai negara.",
-            "",
+            "-Fz37yn2ruk",
             "<b>Cara Bermain :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tPermainan diawali dengan melempar secara pelan 5 batu tersebut ke lantai atau tanah.</li>\n" +
@@ -480,7 +480,7 @@ object FullData {
             "Bilu-Bilulu",
             "Bilu – bilulu (Biru + Biru R=L + LU)",
             "\tAsal mula permainan Bilu-bilulu berasal dari seorang laki-laki (bilu-bilulu) menemukan seeokor burung yang jinak dalam semak-semak lalu dipelihara dijadikan teman bermain. Burung ini mengerti bahasa yang diucapkan tuannya. Suatu ketika putri raja secara diam-diam menonton permainan burung dan tuannya itu tanpa diketahui raja. Raja mencari putrinya dan menemukan putrinya tersebut lalu mengajaknya pulangnya. Sang puteri tidak mau dan hanya menyebut ?Bilu-bilulu? Burung itu pun akhirnyaa diminta oleh raja, tapi sayang 3 hari kemudian burung tersebut mati. Puteri pun menangis dan meminta agar burung itu dapat diganti. Raja mengharuskan bilu-bilulu menggantinya jika tidak maka ia akan dihukum pancung. Bilu-bilu sangat ketakutan. Dalam kebingungannya Bilu-bilulu melihat serumpun bamboo dan salah satu pohonnya ditebang, potongan bamboo terlepas, terbang menjulang jauh menimbulkan bunyi hamper sama dengan burung terbang. Lalu cerita bilu-bilulu ini dijadikan perrmainan oleh anak-anak di Pedesaan. Bilu-bilulu dimainkan oleh anak-anak laki-laki terdiri dari anak berumur 7 tahun-14 tahun sedikitnya 2 orang dan paling banyak 5 orang. Sebelum permainan dimulai terlebih dahulu dibuat daerah permainan yaitu jarak antara tempat memukul (Bubu?a) bilu-bilulu dengan semak-semak sebagai sasaran permainan. Para pemain berusaha berlomba untuk memukul sejauh mungkin ke arah semak-semak dengan bantuan alat Tuwito dan Panggulo (alat pemukul). Fungsi sosialnya merupakan hiburan di waktu senggang terutama anak-anak di pedesaan sambil bermain mereka bersaing dalam soal ketrampilan dan keahlian. Permainan ini berasal dari Gorontalo",
-            "",
+            "ZMhmViDtKcE",
             "<b>Cara Bermain :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tSebelum permainan dimulai terlebih dahulu dibuat garis persegi panjang dan ditengah dibuat garis horizontal dan dua atau tiga garis vertikal.</li>\n" +
@@ -507,7 +507,7 @@ object FullData {
             "Petak Umpet",
             "Petak Umpet ( peta + K + Dompet DU=U )",
             "\tPetak umpet adalah sebuah permainan tradisional yang melegenda. Hampir setiap anak mengenalnya. Permainan yang secara internasional disebut hide and seek ini memang sering dimainkan di sore hari yang cerah atau saat hari libur. Cara bermainnya sangat mudah dan tidak perlu keterampilan khusus. Salah satu yang berperan sebagai pencari temannya akan menutup mata sambil berhitung, sedangkan pemain lain mencari tempat sembunyi yang dirasa aman. Petak umpet memiliki berbagai penyebutan nama di berbagai daerah di Indonesia, di Sunda, petak umpet dikenal dengan istilah Ucing Sumput sedangkan dalam Bahasa Jawa disebut dengan Dhelikan, Jethungan, atau Jepungan",
-            "",
+            "fgGg0i2KZUw",
             "<b>Cara Bermain :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tSeluruh pemain melakukan ‘gambreng’</li>\n" +
@@ -537,7 +537,7 @@ object FullData {
             "Rangku Alu",
             "Rangku Alu  (rangkul L (x) + Palu P(x) )",
             "\tPermainan rangku alu adalah permainan tradisional khas daerah Manggarai, Nusa Tenggara Timur (NTT). Pada malam bulan purnama, para orang tua di Manggarai melakukan pekerjaan tuk telo atau menumbuk hasil tuaian pertanian secara gotong royong. Sembari menanti orang tua selesai bekerja, anak-anak mengisi waktu dengan bermain rangku alu. Meskipun awalnya dimainkan oleh anak-anak, perlahan permainan tersebut menjadi sebuah perayaan hasil panen pertanian atau perkebunan. Masyarakat dari berbagai kalangan dan usia berkumpul untuk meramaikan permainan ini. Meskipun awalnya dimainkan oleh anak-anak, perlahan permainan tersebut menjadi sebuah perayaan hasil panen pertanian atau perkebunan. Masyarakat dari berbagai kalangan dan usia berkumpul untuk meramaikan permainan ini.",
-            "",
+            "zdipHgQg804",
             "<b>Cara Bermain :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tPermainan ini terdiri dari dua tim, yaitu tim pemain dan penjaga yang terdiri 4 orang disetiap timnya.</li>\n" +
@@ -564,7 +564,7 @@ object FullData {
             "Gobak Sodor",
             "Gobak Sodor",
             "\tPermainan Gobak Sodor terkenal di wilayah Pulau Jawa. Banyak yang mengatakan bahwa permainan ini berasal dari daerah Yogyakarta. Nama Gobak Sodor berasal dari kata gobak dan sodor. Kata gobak artinya bergerak dengan bebas. Sedangkan sodor artinya tombak. Dahulu para prajurit mempunyai permainan yang bernama sodoran sebagai latihan keterampilan dalam berperang. Sodor ialah tombak dengan panjang kira-kira 2 meter, tanpa mata tombak yang tajam pada ujungnya",
-            "",
+            "ukmLYMKm5KM",
             "<b>Cara Bermain :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tMasing-masing pemain dari tim jaga harus bergerak di sepanjang garis melintang yang telah ditentukan. Jadi kakinya harus selalu menginjak garis tersebut.</li>\n" +
@@ -592,7 +592,7 @@ object FullData {
             "Dakonan",
             "\tBerdasar temuan arkeolog dari National Geographic, permainan ini ada sejak sekitar tahun 7.000-5.000 SM. Berasal dari kebudayaan kuno Timur Tengah, Dakonan di bawa ke daratan Afrika baru kemudian menyebar di Asia melalui para pedagang. Dalam permainan tradisional ini banyak manfaat yang bisa didapatkan atau mempunyai nilai filosofi yang baik seperti melatih untuk memberanikan diri bersikap sportif, berbuat jujur dan ahli strategi biar tidak berhenti di lubang kosong karena kalau berhenti di lubang kosong kita akan mati.\n" +
                     "\tTidak hanya itu saja manfaat yang didapat, ternyata ada filosofi yang menarik dalam permainan dakon tersebut. Jumlah lubang kecil ada 7 yang menandakan jumlah hari dalam setiap minggunya, lalu ketika menjalankan biji demi bijinya ternyata terkandung bahwa kita dituntut untuk terus beraktivitas di setiap harinya supaya kita berbagi (sedekah) terhadap lingkungan kita ataupun bersedekah juga kepada lawan (musuh). Tak lupa juga mengajari kita untuk menabung di lubang besar.",
-            "",
+            "SBw3sRmpK4k",
             "<b>Cara Bermain :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tJumlah pemain tergantung dari jumlah papan permainan maggaleceng yang tersedia. Untuk satu papan permainan hanya dapat dimainkan oleh dua orang. Tiap lubang kecil diisi dengan 5 biji yang biasanya terbuat dari biji-bijian atau kerikil, kecuali lubang induk yang dibiarkan kosong.</li>\n" +
@@ -621,7 +621,7 @@ object FullData {
             "Egrang Batok Kelapa",
             "Egrang Batok Kelapa",
             "\tPermainan Egrang Batok atau Batok Kelapa, yang berasal dari Provinsi Sulawesi Selatan ini, biasanya dimainkan oleh suku Bugis. Bagi suku Bugis sendiri permainan ini dikenal dengan nama Majjeka, yang berasal dari kata jeka yang artinya jalan. Banyak manfaat yang bisa diambil dari permainan ini, diantaranya memberikan kegembiraan pada anak, mengasah kreativitas anak serta melatih motorik halus dan motorik kasar anak. Selain itu, Egrang Batok juga melatih semangat anak dan mengajarkan anak untuk dapat memanfaatkan bahan di sekitar",
-            "",
+            "CwCBloOyB3g",
             "<b>Cara Bermain :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tBerlomba secepat mungkin berjalan menggunakan batok kelapa tadi dari satu sisi lapangan ke sisi lapangan lainnya.</li>\n" +
@@ -645,7 +645,7 @@ object FullData {
             "Pencak Silat",
             "Pencak Silat",
             "\tPencak silat sudah lama diperkenalkan di Indonesia. Pencak silat sudah tersebar ke seluruh kepulauan Nusantara sejak abad ke-7. Hal ini bisa dilihat pada masa penjajahan Belanda, pencak silat sudah ada dan dipakai untuk melawan penjajah. Seni bela diri ini terus berkembang pesat di tengah masyarakat di Indonesia. Penyebaran pencak silat di Nusantara sudah terjadi sejak abad ke-7. Ini dibuktikan lewat relief Candi Borobudur.",
-            "",
+            "94rXN1ctbhE",
             "<b>Cara Bermain :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tLangkahkan kaki kanan ke arah depan serta silangkan kedua tangan di depan dada. Jangan lupa untuk tangan kanan ditaruh di atas.</li>\n" +
@@ -679,7 +679,7 @@ object FullData {
             "Kerapan Sapi",
             "Karapan Sapi (sarapan S=K) + sapu U=I)",
             "\tKarapan Sapi Madura telah menjadi kebudayaan orang Madura sejak jaman dahulu. Kebiasaan memacu binatang peliharaan di arena memang sudah menjadi kegemaran penduduk Madura sejak dahulu kala. Di Madura tidak hanya hewan peliharaan sapi yang diadu cepat, tetapi juga kerbau seperti yang terdapat di Pulau Kangean. Adu cepat kerbau itu disebut “mamajir”. Sapi atau kerbau yang adu cepat itu, dikendarai oleh seorang joki yang disebut tukang tongko. Tukang tongko tersebut berdiri di atas “kaleles” yang ditarik oleh sapi atau kerbau pacuan.",
-            "",
+            "26ffSQtpCEw",
             "<b>Cara Bermain :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tSebelum karapan dimulai, semua sapi diarak memasuki lapangan mengelilingi arena pacuan dengan diiringi gamelan Madura, yaitu Saronen.</li>\n" +
@@ -728,7 +728,7 @@ object FullData {
             "Sepak Takraw",
             "Sepak Takraw",
             "\tMengutip laman Tutorialspoint, permainan sepak takraw sudah ada sejak zaman Kesultanan Melayu, sekitar 500 tahun lalu. Permainan ini dikenal sebagai Sepak Rago atau sepak raga dalam bahasa Melayu. Permainan ini sebagian besar dimainkan oleh orang-orang di istana kerajaan.",
-            "",
+            "Ey_G4NDzOTw",
             "<b>Cara Bermain :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tBerdiri satu kaki, kaki yang satunya diangkat setinggi lutut dan dibengkokkan.</li>\n" +
@@ -756,7 +756,7 @@ object FullData {
             "Balap Karung",
             "Balap Karung",
             "\tPermainan tradisional balap karung merupakan permainan yang sering dilakukan saat memperingati Kemerdekaan Republik Indonesia. Permainan ini merupakan permainan favorit masyarakat yang banyak dilakukan di berbagai daerah. Permainan ini memiliki filosofi yaitu semangat masyarakat Indonesia merebut kemerdekaan pada saat masa penjajahan. Dalam permainan ini memiliki nilai-nilai karakteristik dan dapat melatih motorik anak, melatih kecepatan, keseimbangan, dan sportifitas. Balap karung juga merupakan salah satu permainan tradisional yang sering digunakan sebagai olahraga rekreasi (Outbond)",
-            "",
+            "aWEcE4uGOsI",
             "<b>Cara Bermain :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tSeluruh pemain berdiri di belakang garis start.</li>\n" +
@@ -783,7 +783,7 @@ object FullData {
             "Bakiak",
             "Bakiak",
             "\tPermainan bakiak merupakan permainan tradisional yang banyak dimainkan di berbagai daerah Indonesia. Bahkan bakiak sudah berkembang sampai Bagian Siapi-api, Bengkalis, dan Riau. Permainan ini sering dilakukan dalam perlombaan perayaan hari Kemerdekaan Republik Indonesia, atau dijadikan salah satu permainan pada Olahraga Rekreasi (Outbond). Permainan ini memiliki berbagai nama seperti, bangkiak, terompah galuak, dll. Permainan ini memiliki nilai-nilai karakteristik di dalamnya, seperti, kekompakan, sportifitas, dan kebersamaan. Selain itu, permainan tradisional terompah panjang dapat melatih motorik, kecepatan, dan keseimbangan.",
-            "",
+            "fYeJHNDX26w",
             "<b>Cara Bermain :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tPeserta dibagi dalam regu yang terdiri dari 5 orang atau 3 orang sesuai dengan jenis yang diperlombakan.</li>\n" +
@@ -829,7 +829,7 @@ object FullData {
             "Bola Bekel",
             "Bola Bekel (bola + bekal A=E)",
             "\tBekel adalah salah satu jenis permainan tradisional dari Jawa Tengah, kalau di Yogyakarta dikenal sebagai Gatheng. Di kala senggang atau saat pulang sekolah anak-anak biasanya memainkan bekel bersama-sama. Bekel biasanya dimainkan oleh anak-anak perempuan berusia 7 -10 tahun. Biasanya jumlah pemainnya 2 sampai 4 orang. Bekel ini dimainkan dengan aturan-aturan yang disepakati bersama. Permainan bola bekel adalah permainan tradisional yang berasal dari Jawa Timur. Di Jawa Barat permainan bola bekel dikenal dengan nama beklen yang berarti bekal. Beklen atau bekel berasal dari bahasa Belanda yaitu bikkelen.",
-            "",
+            "fti29oOoHzs",
             "<b>Cara Bermain :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tPertama, bola dan biji bekel itu digenggam menjadi satu, kemudian bola dilempar setinggi kurang lebih 30 cm. Setelah bolanya turun dan memantul, biji bekel dilepas dalam posisi acak. Lempar lagi bolanya, lalu kita ambil biji bekel satu per satu, dua-dua, tiga-tiga, dan seterusnya sampai habis.</li>\n" +
@@ -857,7 +857,7 @@ object FullData {
             "Lompat Karet",
             "Lompat Karet (lompat + karet)",
             "\tLompat karet atau “main karet” pernah populer di kalangan anak angkatan 70-an hingga 80-an. Permainan lompat tali ini menjadi favorit saat “keluar main” di sekolah dan setelah mandi sore di rumah. Permainan lompat tali dimainkan secara bersama-sama oleh 3 hingga 10 anak. Namun, dari nama permainan itu sendiri dapat diduga bahwa permainan ini muncul di zaman penjajahan. Sebenarnya di daerah lain Indonesia juga banyak ditemukan permainan ini tapi dengan nama yang berbeda misal dengan nama Yeye, Tali Merdeka (Riau), Lompatan dan lain-lain. Peralatan yang digunakan dalam permainan lompat tali sangat sederhana, yaitu karet gelang yang dijalin atau dirangkai hingga panjangnya mencapai ukuran yang dibutuhkan, biasanya sekitar 3 sampai 4 meter.",
-            "",
+            "1mEt8jiqt6E",
             "<b>Cara Bermain :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tMelompat tali karet berputar. Permainan ini bisa dimainkan satu orang atau lebih. Apabila dimainkan sendiri, kedua ujung tali karet harus diikat pada tiang. Sementara apabila dimainkan bersama-sama, dua orang harus memegang tali karet dari ujung ke ujung. Dua orang itu akan memutar tali karet. Dapat searah jarum jam atau berlawanan. Anggota yang lan akan melompati tali karet tersebut secara bergantian. Pemain yang pada saat melompat terkena tali karet dianggap kalah atau harus berhenti dari permainan.</li>\n" +
@@ -884,7 +884,7 @@ object FullData {
             "Ular Naga Panjang",
             "Ular Naga Panjang (ular +nada D=G + ranjang R=P)",
             "\tPermainan ular naga panjang diketahui keberadaanya sudah ada sejak zaman dahulu. Permainan tradisional yang membutuhkan banyak pemain ini adalah permainan turun-temurun. Permainan ini dinamai ular naga karena dalam permainan ini pemain membuat barisan memanjang yang diibaratkan seperti ular dan naga. Dalam permainan tradisional ini memiliki nilai karakteristik seperti kebersamaan, kekompakan, dan dapat melatih motorik anak.",
-            "",
+            "5684n3f-rFs",
             "<b>Cara Bermain :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tDibutuhkan setidaknya 10 orang dalam permainan ini, dua orang bertugas sebagai penjaga dan delapan lainnya berbaris ke belakang membentuk ular, kedua tangan diletakkan di pundak pada teman teman yang berada di depannya.</li>\n" +
@@ -912,7 +912,7 @@ object FullData {
             "Layang-Layang",
             "Layang-Layang (kayang K=L)",
             "\tLayang-layang, layangan, atau wau (di sebagian wilayah Semenanjung Malaya) merupakan lembaran bahan tipis berkerangka yang diterbangkan ke udara dan terhubungkan dengan tali atau benang ke daratan atau pengendali. Layang-layang memanfaatkan kekuatan hembusan angin sebagai alat pengangkatnya. Dikenal luas di seluruh dunia sebagai alat permainan. Layang-layang diketahui juga memiliki fungsi ritual, alat bantu memancing atau menjerat, menjadi alat bantu penelitian ilmiah, serta media energi alternatif. Catatan pertama yang menyebutkan permainan layang-layang adalah dokumen dari Cina sekitar 2500 Sebelum Masehi.Sedangkan penggambaran layang-layang tertua adalah dari lukisan gua periode mesolitik di pulau Muna, Sulawesi Tenggara, yang telah ada sejak 9500-9000 tahun SM.",
-            "",
+            "5DautilWGwA",
             "<b>Cara Bermain :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tPeganglah gulungan benang, sementara seorang teman Anda memegang layang-layang.</li>\n" +
@@ -945,7 +945,7 @@ object FullData {
             "Cublak-Cublak Suweng",
             "Cublak-Cublak Suweng (seblak SE=CU + surat RAT(x) + WENG",
             "\tCublak-cublak suweng merupakan permainan tradisional yang banyak dimainkan di daerah jawa. Dari berbagai sumber sejarah menyatakan bahwa lagu Cublak-cublak Suweng diciptakan oleh seorang wali songo yaitu Syekh Maulana Ainul Yakin atau biasa dikenal dengan Sunan Giri sekitar tahun 1442 M. ‘Cublak Suweng’ sendiri memiliki arti tempat suweng. Suweng adalah bahasa jawa yang berarti anting, yang merupakan perhiasan perempuan. Sementara itu, sumber lain juga menyatakan Cublak-cublak Suweng memiliki arti tempat harta berharga, yaitu Suweng (Suwung, Sepi, Sejati) atau Harta Sejati. Pada intinya, lagu dolanan ini mengajarkan untuk mendapatkan harta sejati atau kebahagiaan sejati tidak melulu menuruti hawa nafsu dan tidak serakah. Dengan hati yang bersih kita akan lebih mudah menemukan harta sejati dan tidak tersesat.",
-            "",
+            "MWMbj9b_0xE",
             "<b>Cara Bermain :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tMelakukan gambreng dan yang kalah menjadi Pak Empo. Dia berbaring telungkup di tengah, anak-anak lain duduk melingkar.</li>\n" +
@@ -972,7 +972,7 @@ object FullData {
             "Gasing (gas + king K(x) )",
             "\tPermainan tradisional gasing merupakan permainan yang berasal dari daerah melayu. Permainan ini sangat populer pada zaman dahulu, dan menjadi permainan yang sering dimainkan anak-anak. Gasing tradisional pada umumnya terbuat dari kayu dan permainannya dengan menggunakan tali yang terbuat dari kulit pohon. Jenis kayu yang biasanya digunakan untuk membuat Gasing antara lain Menggeris, Pelawan, Kayu Besi, Leban, Mentigi, dan sejenisnya. Sedangkan di beberapa daerah lainnya Gasing terbuat dari bambu. \n" +
                     "\tGasing juga memiliki nama dan bentuk yang berbeda-beda di masing tiap daerah. Jawa Barat dan Jakarta menyebutnya dengan Gangsing atau Panggal, Lampung dengan Pukang, Kalimantan Timur dengan Begasing, Maluku dengan Apiong, Sulawesi Selatan dan Nusa Tenggara Barat dengan Maggasing, Lombok menyebutnya  Gangsing, Bolaang Mongondow Sulawesi Selatan menyebutnya Paki, Jawa Timur dengan Kekehan. Sementara di Yogyakarta menyebutnya dengan Pathon jika terbuat dari kayu dan Gangsingan jika terbuat dari bambu.",
-            "",
+            "DAQFRkUezw4",
             "<b>Cara Bermain :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tPegang gasing di tangan kiri, sementara itu pegang tali dengan tangan kanan. Lilitkan tali mulai pada bagian paksi (kaki gasing) hingga ke badan dengan erat.</li>\n" +
@@ -998,7 +998,7 @@ object FullData {
             "Pletokan",
             "Pletokan (P + lebah BAH(x) + token E=A)",
             "\tPletokan adalah nama senjata mainan yang terbuat dari bambu, dan pelurunya terbuat dari kertas yang dibasahkan, atau biji jambu atau kembang. Permainan ini merupakan permainan khas masyarakat Betawi. Pada masyarakat Sunda, mereka menyebut pletokan dengan bebeletokan, sedangkan di Probolinggo dan Madura mereka menyebutnya dengan tor cetoran. sementara di suku Sasak Lombok disebut dengan beledokan. Permainan ini, biasanya dimainkan oleh anak laki-laki berumuran 6-13 tahun.",
-            "",
+            "vfI_dL33DfA",
             "<b>Cara Bermain :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tMemasukan peluru menggunakan tolak sampai ke ujung bedil laras.</li>\n" +
@@ -1024,7 +1024,7 @@ object FullData {
             "Meriam Bambu",
             "Meriam Bambu (meriang NG=M + jambu J=B )",
             "\tMeriam bambu merupakan permainan tradisional yang banyak dimainkan saat ramadhan. Permainan ini merupakan hasil modifikasi masyarakat Indonesia saat penjajahan. Masyarakat Indonesia sangat terkesan dengan peralatan senjata sehingga memodifikasi dengan peralatan sederhana yang berasal dari bambu. Permainan ini sering dilakukan oleh anak-anak hingga dewasa untuk ngabuburit atau menunggu waktu berbuka. Permainan tradisional ini memiliki berbagai nama seperti, mercon bambu, bumbungan. Daerah Minangkabau, nama permainan ini dikenal sebagai meriam betung atau badia batuang. Kalau di Bangka, lebih populer dengan sebutan bedil bambu. Warga Banten atau masyarakat Sunda sering menyebut permainan ini dengan Bebeledugan. Kalau Warga Aceh, justru mengenalnya dengan Te’t Beude Trieng. Sementara itu, Warga Gorontalo justru menyebutnya dengan bunggo.",
-            "",
+            "zKSmW92OfXc",
             "<b>Cara Bermain :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tPilih tempat bermain meriam bambu di lokasi terbuka misalnya lapangan. Hindari bermain di dalam rumah atau ruangan.</li>\n" +
@@ -1054,7 +1054,7 @@ object FullData {
             "Nekeran",
             "Nekeran (ceker C=N + AN)",
             "\tTernyata dari berbagai penelusuran sejarah, permainan ini awalnya berasal dari peradaban Mesir Kuno sejak tahun 3000 Sebelum Masehi (SM). Di Mesir, kelereng terbuat dari tanah liat atau batu. Hingga sekarang masuk ke Indonesia. Permainan tradisional ini memiliki berbagai nama di Indonesia. masyarakat Betawi namanya gundu. Buat anak-anak Sunda namanya kaleci. Orang Jawa nyebutnya neker. Di Palembang disebutnya ekar, di Banjar Kleker. Permainan tradisional ini memiliki nilai-nilai karakteristik seperti, menahan emosi, fokus, kecermatan, dan ketelitian.",
-            "",
+            "9ifblRotzzc",
             "<b>Cara Bermain :</b>\n" +
                     "        <ul>\n" +
                     "            <li>\tGambar lingkaran kecil di tanah. Seluruh pemain menaruh sebutir kelereng di dalam lingkaran.</li>\n" +
