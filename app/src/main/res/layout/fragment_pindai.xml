@@ -30,30 +30,437 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintBottom_toBottomOf="@+id/scn" />
-    
-    <ImageView
-        android:id="@+id/imgPreview"
-        android:layout_width="150dp"
-        android:layout_height="150dp"
+
+    <LinearLayout
+        android:id="@+id/linTop"
+        app:layout_constraintTop_toBottomOf="@+id/scn"
+        android:layout_marginTop="20dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/input1"
+            android:gravity="center"
+            android:layout_width="30dp"
+            android:layout_height="45dp"
+            android:imeOptions="actionNext"
+            android:importantForAutofill="no"
+            android:inputType="textCapCharacters"
+            android:maxLength="1"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:textColor="@drawable/edit_text"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/input2"
+            android:gravity="center"
+            android:layout_width="30dp"
+            android:layout_height="45dp"
+            android:imeOptions="actionNext"
+            android:importantForAutofill="no"
+            android:inputType="textCapCharacters"
+            android:maxLength="1"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:textColor="@drawable/edit_text"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/input3"
+            android:gravity="center"
+            android:layout_width="30dp"
+            android:layout_height="45dp"
+            android:imeOptions="actionNext"
+            android:importantForAutofill="no"
+            android:inputType="textCapCharacters"
+            android:maxLength="1"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:textColor="@drawable/edit_text"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/input4"
+            android:gravity="center"
+            android:layout_width="30dp"
+            android:layout_height="45dp"
+            android:imeOptions="actionNext"
+            android:importantForAutofill="no"
+            android:inputType="textCapCharacters"
+            android:maxLength="1"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:textColor="@drawable/edit_text"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/input5"
+            android:gravity="center"
+            android:layout_width="30dp"
+            android:layout_height="45dp"
+            android:imeOptions="actionNext"
+            android:importantForAutofill="no"
+            android:inputType="textCapCharacters"
+            android:maxLength="1"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:textColor="@drawable/edit_text"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/input6"
+            android:gravity="center"
+            android:layout_width="30dp"
+            android:layout_height="45dp"
+            android:imeOptions="actionNext"
+            android:importantForAutofill="no"
+            android:inputType="textCapCharacters"
+            android:maxLength="1"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:textColor="@drawable/edit_text"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/input7"
+            android:gravity="center"
+            android:layout_width="30dp"
+            android:layout_height="45dp"
+            android:imeOptions="actionNext"
+            android:importantForAutofill="no"
+            android:inputType="textCapCharacters"
+            android:maxLength="1"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:textColor="@drawable/edit_text"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/input8"
+            android:gravity="center"
+            android:layout_width="30dp"
+            android:layout_height="45dp"
+            android:imeOptions="actionNext"
+            android:importantForAutofill="no"
+            android:inputType="textCapCharacters"
+            android:maxLength="1"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:textColor="@drawable/edit_text"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/input9"
+            android:gravity="center"
+            android:layout_width="30dp"
+            android:layout_height="45dp"
+            android:imeOptions="actionNext"
+            android:importantForAutofill="no"
+            android:inputType="textCapCharacters"
+            android:maxLength="1"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:textColor="@drawable/edit_text"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/input10"
+            android:gravity="center"
+            android:layout_width="30dp"
+            android:layout_height="45dp"
+            android:imeOptions="actionNext"
+            android:importantForAutofill="no"
+            android:inputType="textCapCharacters"
+            android:maxLength="1"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:textColor="@drawable/edit_text"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/input11"
+            android:gravity="center"
+            android:layout_width="30dp"
+            android:layout_height="45dp"
+            android:imeOptions="actionNext"
+            android:importantForAutofill="no"
+            android:inputType="textCapCharacters"
+            android:maxLength="1"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:textColor="@drawable/edit_text"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/input12"
+            android:gravity="center"
+            android:layout_width="30dp"
+            android:layout_height="45dp"
+            android:imeOptions="actionNext"
+            android:importantForAutofill="no"
+            android:inputType="textCapCharacters"
+            android:maxLength="1"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:textColor="@drawable/edit_text"
+            tools:ignore="LabelFor" />
+
+        <EditText
+            android:id="@+id/input13"
+            android:gravity="center"
+            android:layout_width="30dp"
+            android:layout_height="45dp"
+            android:imeOptions="actionNext"
+            android:importantForAutofill="no"
+            android:inputType="textCapCharacters"
+            android:maxLength="1"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:textColor="@drawable/edit_text"
+            tools:ignore="LabelFor" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linBot"
         android:layout_marginTop="10dp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/scn"
-        />
-    
+        app:layout_constraintTop_toBottomOf="@+id/linTop"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/input14"
+            android:gravity="center"
+            android:layout_width="30dp"
+            android:layout_height="45dp"
+            android:imeOptions="actionNext"
+            android:importantForAutofill="no"
+            android:inputType="textCapCharacters"
+            android:maxLength="1"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:textColor="@drawable/edit_text"
+            />
+
+        <EditText
+            android:id="@+id/input15"
+            android:gravity="center"
+            android:layout_width="30dp"
+            android:layout_height="45dp"
+            android:imeOptions="actionNext"
+            android:importantForAutofill="no"
+            android:inputType="textCapCharacters"
+            android:maxLength="1"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:textColor="@drawable/edit_text"
+            />
+
+        <EditText
+            android:id="@+id/input16"
+            android:gravity="center"
+            android:layout_width="30dp"
+            android:layout_height="45dp"
+            android:imeOptions="actionNext"
+            android:importantForAutofill="no"
+            android:inputType="textCapCharacters"
+            android:maxLength="1"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:textColor="@drawable/edit_text"
+            />
+
+        <EditText
+            android:id="@+id/input17"
+            android:gravity="center"
+            android:layout_width="30dp"
+            android:layout_height="45dp"
+            android:imeOptions="actionNext"
+            android:importantForAutofill="no"
+            android:inputType="textCapCharacters"
+            android:maxLength="1"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:textColor="@drawable/edit_text"
+            />
+
+        <EditText
+            android:id="@+id/input18"
+            android:gravity="center"
+            android:layout_width="30dp"
+            android:layout_height="45dp"
+            android:imeOptions="actionNext"
+            android:importantForAutofill="no"
+            android:inputType="textCapCharacters"
+            android:maxLength="1"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:textColor="@drawable/edit_text"
+            />
+
+        <EditText
+            android:id="@+id/input19"
+            android:gravity="center"
+            android:layout_width="30dp"
+            android:layout_height="45dp"
+            android:imeOptions="actionNext"
+            android:importantForAutofill="no"
+            android:inputType="textCapCharacters"
+            android:maxLength="1"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:textColor="@drawable/edit_text"
+            />
+
+        <EditText
+            android:id="@+id/input20"
+            android:gravity="center"
+            android:layout_width="30dp"
+            android:layout_height="45dp"
+            android:imeOptions="actionNext"
+            android:importantForAutofill="no"
+            android:inputType="textCapCharacters"
+            android:maxLength="1"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:textColor="@drawable/edit_text"
+            />
+
+        <EditText
+            android:id="@+id/input21"
+            android:gravity="center"
+            android:layout_width="30dp"
+            android:layout_height="45dp"
+            android:imeOptions="actionNext"
+            android:importantForAutofill="no"
+            android:inputType="textCapCharacters"
+            android:maxLength="1"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:textColor="@drawable/edit_text"
+            />
+
+        <EditText
+            android:id="@+id/input22"
+            android:gravity="center"
+            android:layout_width="30dp"
+            android:layout_height="45dp"
+            android:imeOptions="actionNext"
+            android:importantForAutofill="no"
+            android:inputType="textCapCharacters"
+            android:maxLength="1"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:textColor="@drawable/edit_text"
+            />
+
+        <EditText
+            android:id="@+id/input23"
+            android:gravity="center"
+            android:layout_width="30dp"
+            android:layout_height="45dp"
+            android:imeOptions="actionNext"
+            android:importantForAutofill="no"
+            android:inputType="textCapCharacters"
+            android:maxLength="1"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:textColor="@drawable/edit_text"
+            />
+
+        <EditText
+            android:id="@+id/input24"
+            android:gravity="center"
+            android:layout_width="30dp"
+            android:layout_height="45dp"
+            android:imeOptions="actionNext"
+            android:importantForAutofill="no"
+            android:inputType="textCapCharacters"
+            android:maxLength="1"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:textColor="@drawable/edit_text"
+            />
+
+        <EditText
+            android:id="@+id/input25"
+            android:gravity="center"
+            android:layout_width="30dp"
+            android:layout_height="45dp"
+            android:imeOptions="actionNext"
+            android:importantForAutofill="no"
+            android:inputType="textCapCharacters"
+            android:maxLength="1"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:textColor="@drawable/edit_text"
+            />
+
+        <EditText
+            android:id="@+id/input26"
+            android:gravity="center"
+            android:layout_width="30dp"
+            android:layout_height="45dp"
+            android:imeOptions="actionNext"
+            android:importantForAutofill="no"
+            android:inputType="textCapCharacters"
+            android:maxLength="1"
+            android:textStyle="bold"
+            android:textSize="18dp"
+            android:textColor="@drawable/edit_text"
+            />
+
+    </LinearLayout>
+
     <Button
-        android:id="@+id/btnSelengkapnya"
-        android:visibility="invisible"
-        android:layout_width="200dp"
-        android:layout_height="40dp"
-        android:text="Cek Selengkapnya"
-        android:textColor="@color/colorWhite"
-        android:background="@drawable/rounded_button"
+        android:id="@+id/cek"
         android:layout_marginTop="5dp"
-        style="?android:attr/borderlessButtonStyle"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/imgPreview"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="SUBMIT"
+        android:background="@color/colorWhite"
+        app:layout_constraintTop_toBottomOf="@+id/linBot"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginBottom="50dp"
         />
+
+<!--    <ImageView-->
+<!--        android:id="@+id/imgPreview"-->
+<!--        android:layout_width="150dp"-->
+<!--        android:layout_height="150dp"-->
+<!--        android:layout_marginTop="10dp"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toBottomOf="@id/scn"-->
+<!--        />-->
+<!--    -->
+<!--    <Button-->
+<!--        android:id="@+id/btnSelengkapnya"-->
+<!--        android:visibility="invisible"-->
+<!--        android:layout_width="200dp"-->
+<!--        android:layout_height="40dp"-->
+<!--        android:text="Cek Selengkapnya"-->
+<!--        android:textColor="@color/colorWhite"-->
+<!--        android:background="@drawable/rounded_button"-->
+<!--        android:layout_marginTop="5dp"-->
+<!--        style="?android:attr/borderlessButtonStyle"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toBottomOf="@id/imgPreview"-->
+<!--        />-->
 
 </androidx.constraintlayout.widget.ConstraintLayout>

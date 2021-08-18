@@ -38,7 +38,8 @@ object FullData {
                     "            <li>\tLapangan.</li>\n" +
                     "            <li>\tUntuk peralatan permainan Egrang bisa dibuat dari Bahan dan bambu dengan garis tengah 5 cm.</li>\n" +
                     "        </ul>\n\n<br>",
-            "OK886Iz6_-A"
+            "OK886Iz6_-A",
+            "E...NG#"
         ),
         ItemFFC( //
             "dd6c909834b71e668755efa29b967a8e",
@@ -75,7 +76,8 @@ object FullData {
                     "            <li>\tBantal</li>\n" +
                     "            <li>\tMatras, jerami, pasir atau tanah</li>\n" +
                     "        </ul>\n\n<br>",
-            "qHPdEYWi7ek"
+            "qHPdEYWi7ek",
+            "..B.K B...AL#"
         ),
         ItemFFC( //
             "a50b604764b503ddda826f1d578afdd6",
@@ -120,7 +122,8 @@ object FullData {
                     "            <li>\tMeja dan kursi untuk kesekretariatan.</li>\n" +
                     "            <li>\tTerompah : Dibuat dari balok/papan.</li>\n" +
                     "        </ul>\n\n<br>",
-            "fygrKSRL-Xk"
+            "fygrKSRL-Xk",
+            "T...M..H P....NG#"
         ),
         ItemFFC( //
             "e47ed967e0e5428de0d8debe63c6eb76",
@@ -158,7 +161,8 @@ object FullData {
                     "            <li>\tBendera start.</li>\n" +
                     "            <li>\tTali finish.</li>\n" +
                     "        </ul>\n\n<br>",
-            "BsffRraIzek"
+            "BsffRraIzek",
+            "L..I B..OK#"
         ),
         ItemFFC( //
             "2398a9ce2097400728bb5a98352469eb",
@@ -208,11 +212,12 @@ object FullData {
                     "            <li>\tStopwatch.</li>\n" +
                     "            <li>\tMeja dan kursi untuk kesekretariatan.</li>\n" +
                     "        </ul>\n\n<br>",
-            "6i6MHGRjusk"
+            "6i6MHGRjusk",
+            "H...NG#"
         ),
         ItemFFC( //
             "93ad980c57cb80cc7ef9542107df7a65",
-            "Benteng",
+            "Bentengan",
             "Benteng (Banteng A=E)",
             "\tBentengan, atau disebut juga rerebonan di daerah Jawa Barat, merupakan salah satu permainan tradisional asli Indonesia yang dapat dimainkan untuk membantu melatih aspek gerak motorik kasar anak. Permainan ini membutuhkan kecepatan berlari dan ketangkasan dalam proses bermainnya. Umumnya bentengan dimainkan oleh dua tim yang kemudian menentukan bentengnya masing-masing sesuai kesepakatan. Tujuan utama dari permainan ini adalah masing-masing tim berusaha 'menyerang' dan merebut benteng lawan, sehingga tim yang dapat merebut benteng tim lawan terlebih dahulu yang menjadi pemenangnya.",
             "HXvmrK4RStc",
@@ -245,7 +250,8 @@ object FullData {
                     "            <li>\tPeluit.</li>\n" +
                     "            <li>\tStopwatch.</li>\n" +
                     "        </ul>\n\n<br>",
-            "BZ9ebfOj3P8"
+            "BZ9ebfOj3P8",
+            "B..T...A.#"
         ),
         ItemFFC( //
             "c2e8eb3b03d42d25532b21b825752c42",
@@ -278,7 +284,8 @@ object FullData {
                     "            <li>\tPeluit.</li>\n" +
                     "            <li>\tStopwatch.</li>\n" +
                     "        </ul>\n\n<br>",
-            "UtKnNmhJdIU"
+            "UtKnNmhJdIU",
+            "D.GO...N#"
         ),
         ItemFFC( //
             "031c13a9ef10183986b93660973196c2",
@@ -302,7 +309,8 @@ object FullData {
                     "            <li>\t2 potong kayu.</li>\n" +
                     "            <li>\tTanah berlubang/ 2 buah bata.</li>\n" +
                     "        </ul>\n\n<br>",
-            "2v-KPOcw9AQ"
+            "2v-KPOcw9AQ",
+            "P...L .E..#"
         ),
         ItemFFC( //
             "df0fdd33a14c44f4b7fd2b56fa331fdd",
@@ -327,7 +335,8 @@ object FullData {
                     "            <li>\tLapangan.</li>\n" +
                     "            <li>\tTali tambang berukuran 30-50 meter, pada petengahan tali diberi tanda berupa cat/ pita.</li>\n" +
                     "        </ul>\n\n<br>",
-            "BiNySpGYbDs"
+            "BiNySpGYbDs",
+            "T...K  T..B...#"
         ),
         ItemFFC( //
             "7d3269723e750369603fe3b223ca478c",
@@ -355,7 +364,8 @@ object FullData {
                     "        <ul>\n" +
                     "            <li>\tSiapkan pecahan genteng.</li>\n" +
                     "        </ul>\n\n<br>",
-            "zVuDIr9BFPg"
+            "zVuDIr9BFPg",
+            "T..O...N#"
         ),
         ItemFFC( //
             "27adf01b3880e44960d3a5d15626cc25",
@@ -387,7 +397,8 @@ object FullData {
                     "            <li>\tBola kertas yang diisi batu lalu digumpal-gumpalkan menjadi kira-kira sebesar bola tenis.</li>\n" +
                     "            <li>\tPecahan genting, batu-batu pipih atau pecahan asbes; benda apa saja yang bisa disusun bertumpuk ke atas semacam piramida, sebanyak 15 keping/batu.</li>\n" +
                     "        </ul>\n\n<br>",
-            "39WvnLNVJdE"
+            "39WvnLNVJdE",
+            "B..-.OI..#"
         ),
         ItemFFC( //
             "a97d93c4fbca08e50df3ee10c225b6b5",
@@ -414,7 +425,8 @@ object FullData {
                     "            <li>\tGundu /Kelereng.</li>\n" +
                     "            <li>\tTanah Lapang.</li>\n" +
                     "        </ul>\n\n<br>",
-            "I9LvryFAuGI"
+            "I9LvryFAuGI",
+            "G..DU#"
         ),
         ItemFFC( //
             "3713f7905a9d199bb2277e4b103cdaba",
@@ -443,7 +455,8 @@ object FullData {
                     "        <ul>\n" +
                     "            <li>\t5 buah kerikil.</li>\n" +
                     "        </ul>\n\n<br>",
-            "y2iePDKOX-E"
+            "y2iePDKOX-E",
+            "U..U#"
         ),
         ItemFFC( //
             "7addbca00da4f4b420832b0de5bf0352",
@@ -473,7 +486,8 @@ object FullData {
                     "            <li>\tKayu panjang yang tebalnya kurang dari 10 cm, berdiameter sekitar 20 cm dan panjang 50 cm. Kayu tersebut diberi lubang-lubang (bundar) dengan kedalaman kurang lebih 5 cm. Jumlah lubang seluruhnya adalah 12 buah, dengan rincian 10 lubang dibuat jejer dua (masing-masing jejer 5 lubang), kemudian dua lubang yang agak besar di setiap ujungnya.</li>\n" +
                     "            <li>\tPermainan ini juga menggunakan biji-biji pohon buah asam atau kerikil yang jumlahnya  antara 50-70 biji.</li>\n" +
                     "        </ul>\n\n<br>",
-            "G2_cHWjT3Qg"
+            "G2_cHWjT3Qg",
+            "M...GA.E..NG#"
         ),
         ItemFFC( //
             "347068cd56386dfc9404c0c73324edf2",
@@ -500,7 +514,8 @@ object FullData {
                     "            <li>\tArea petak persegi panjang yang mempunyai panjang lapangan 15 meter dan lebar 9 meter. Kemudian area dibagi 6 petak dengan ukuran masing-masing petak 4,5 meter x 5 meter.</li>\n" +
                     "            <li>\tPinggir lapangan sebaiknya diberi tanda dengan kapur.</li>\n" +
                     "        </ul>\n\n<br>",
-            "0lyK3dJqLqI"
+            "0lyK3dJqLqI",
+            "B.L.-.I.UL.#"
         ),
         ItemFFC(
             "64fd933a7c4305fe5d664b1447b041ab",
@@ -530,7 +545,8 @@ object FullData {
                     "            <li>\tTiang, dinding, atau pohon.</li>\n" +
                     "            <li>\tTempat persembunyian.</li>\n" +
                     "        </ul>\n\n<br>",
-            "u-6kIVMldqw"
+            "u-6kIVMldqw",
+            "P...K U..ET#"
         ),
         ItemFFC( //
             "4989318e1f76008edac11f9d667b13ad",
@@ -557,7 +573,8 @@ object FullData {
                     "            <li>\tEmpat bambu dengan panjang masing-masing dua meter.</li>\n" +
                     "            <li>\tTanah Lapang.</li>\n" +
                     "        </ul>\n\n<br>",
-            "9bhLVVV-NTY"
+            "9bhLVVV-NTY",
+            "R....U .LU#"
         ),
         ItemFFC( //
             "243c3f3573175917e115a27848348eff",
@@ -584,7 +601,8 @@ object FullData {
                     "            <li>\tLapangan.</li>\n" +
                     "            <li>\tKapur / batu bata.</li>\n" +
                     "        </ul>\n\n<br>",
-            "LRe2g337cMM"
+            "LRe2g337cMM",
+            "G...K .O..R#"
         ),
         ItemFFC( //
             "8c5bd9510f084f1d32b248950637a5df",
@@ -614,7 +632,8 @@ object FullData {
                     "            <li>\tKayu panjang yang tebalnya kurang dari 10 cm, berdiameter sekitar 20 cm dan panjang 50 cm. Kayu tersebut diberi lubang-lubang (bundar) dengan kedalaman kurang lebih 5 cm. Jumlah lubang seluruhnya adalah 12 buah, dengan rincian 10 lubang dibuat jejer dua (masing-masing jejer 5 lubang), kemudian dua lubang yang agak besar di setiap ujungnya.</li>\n" +
                     "            <li>\tBiji-biji pohon buah asam atau kerikil yang jumlahnya  antara 50-70 biji.</li>\n" +
                     "        </ul>\n\n<br>",
-            "x6wAy66hodg"
+            "x6wAy66hodg",
+            "D..O..N#"
         ),
         ItemFFC( //
             "e92fcdc7fb56f66c059709684c786b1c",
@@ -638,7 +657,8 @@ object FullData {
                     "            <li>\tTali.</li>\n" +
                     "            <li>\tTanah Lapang.</li>\n" +
                     "        </ul>\n\n<br>",
-            "X3q32pQzYZE"
+            "X3q32pQzYZE",
+            "E....G B..O._K...PA#"
         ),
         ItemFFC( //
             "c09179b437a9c1d9ef8d1027e25d713e",
@@ -672,7 +692,8 @@ object FullData {
                     "            <li>\tArea laga.</li>\n" +
                     "            <li>\tPakaian silat lengkap.</li>\n" +
                     "        </ul>\n\n<br>",
-            "khXZYbzQ37Y"
+            "khXZYbzQ37Y",
+            "P....K S..AT#"
         ),
         ItemFFC( //
             "8dbe18353569932da27f0050f0611930",
@@ -721,7 +742,8 @@ object FullData {
                     "            <li>\tSelempang.</li>\n" +
                     "            <li>\tKayu sebagai injakan Joki.</li>\n" +
                     "        </ul>\n\n<br>",
-            "fjOdPILP0dQ"
+            "fjOdPILP0dQ",
+            "K.R...N S..I#"
         ),
         ItemFFC( //
             "c9108096fb3f9c98df2b3a059a899b13",
@@ -749,7 +771,8 @@ object FullData {
                     "            <li>\tBola takraw dari rotan.</li>\n" +
                     "            <li>\tScore sheet.</li>\n" +
                     "        </ul>\n\n<br>",
-            "oaLJlQOfMQc"
+            "oaLJlQOfMQc",
+            "S...K T.K...#"
         ),
         ItemFFC( //
             "7c9d9ddea262c98c184df3fd66944a97",
@@ -776,7 +799,8 @@ object FullData {
                     "            <li>\tKarung.</li>\n" +
                     "            <li>\tPeluit.</li>\n" +
                     "        </ul>\n\n<br>",
-            "clWMX50WUwo"
+            "clWMX50WUwo",
+            ".A..P K.R...#"
         ),
         ItemFFC( //
             "a91f16cdc1743ed32728d230cecc500b",
@@ -822,7 +846,8 @@ object FullData {
                     "            <li>\tMeja dan kursi untuk kesekretariatan.</li>\n" +
                     "            <li>\tTerompah : Dibuat dari balok/papan.</li>\n" +
                     "        </ul>\n\n<br>",
-            "2RTz3M17Zpk"
+            "2RTz3M17Zpk",
+            "B.K.AK#"
         ),
         ItemFFC( //
             "1942cfef3530b3591c8a9899f1f10994",
@@ -850,7 +875,8 @@ object FullData {
                     "            <li>\tBola karet.</li>\n" +
                     "            <li>\tBiji bekel/kericak.</li>\n" +
                     "        </ul>\n\n<br>",
-            "6s8wLM3l7_o"
+            "6s8wLM3l7_o",
+            ".O.. B.K.L#"
         ),
         ItemFFC( //
             "2a866d717432a3941d531e29b35aeb5e",
@@ -877,7 +903,8 @@ object FullData {
                     "            <li>\tKaret.</li>\n" +
                     "            <li>\tLapangan.</li>\n" +
                     "        </ul>\n\n<br>",
-            "LsNfJzwwxm4"
+            "LsNfJzwwxm4",
+            "L..P.. K...T#"
         ),
         ItemFFC( //
             "c6f6360bccfd4f8f4e29971d050171d1",
@@ -905,7 +932,8 @@ object FullData {
                     "        <ul>\n" +
                     "            <li>\tlapangan.</li>\n" +
                     "        </ul>\n\n<br>",
-            "1ZE7gjwQMUo"
+            "1ZE7gjwQMUo",
+            "U... N..._P....NG#"
         ),
         ItemFFC( //
             "832c09b7626137ae02390e9fc4e4f96e",
@@ -938,7 +966,8 @@ object FullData {
                     "            <li>\tSenar / benang.</li>\n" +
                     "            <li>\tLapangan.</li>\n" +
                     "        </ul>\n\n<br>",
-            "EDPKaQpWXog"
+            "EDPKaQpWXog",
+            "L..A..-.A..NG#"
         ),
         ItemFFC( //
             "c27e5303547d10ebfbe6e47dbc3485c7",
@@ -964,7 +993,8 @@ object FullData {
                     "        <ul>\n" +
                     "            <li>\t1 buah kerikil atau biji yang mudah digenggam.</li>\n" +
                     "        </ul>\n\n<br>",
-            "18QWUOwQgzU"
+            "18QWUOwQgzU",
+            "CU....-..B.AK_S...NG#"
         ),
         ItemFFC( //
             "26ddd9deeac07d2b84459a81b6443533",
@@ -991,7 +1021,8 @@ object FullData {
                     "            <li>\tGasing dan tali.</li>\n" +
                     "            <li>\tLapangan atau daerah datar.</li>\n" +
                     "        </ul>\n\n<br>",
-            "qoEZnNogyO8"
+            "qoEZnNogyO8",
+            "G..I.G#"
         ),
         ItemFFC( //
             "cd83a3f7b690d088155a5f984427a698",
@@ -1017,7 +1048,8 @@ object FullData {
                     "            <li>\tLaras bedil berbentuk pipa, tolak, dan peluru terbuat dari bambu.</li>\n" +
                     "            <li>\tPeluru bisa terbuat dari kertas yang dibasahi, kembang, atau pentil jambu air.</li>\n" +
                     "        </ul>\n\n<br>",
-            "jvZckdyInis"
+            "jvZckdyInis",
+            "PL.TO.AN#"
         ),
         ItemFFC( //
             "eb0be44ed76dfc5ab807ec36624ac6da",
@@ -1047,7 +1079,8 @@ object FullData {
                     "            <li>\tBilah pemicu berupa potongan kayu kecil.</li>\n" +
                     "            <li>\tKorek api.</li>\n" +
                     "        </ul>\n\n<br>",
-            "X_tEkZnXqEM"
+            "X_tEkZnXqEM",
+            "M..I.M B..B.#"
         ),
         ItemFFC( //
             "809d9599adcbcb03f0931db64622c8b8",
@@ -1073,7 +1106,8 @@ object FullData {
                     "            <li>\tLapangan.</li>\n" +
                     "            <li>\tNeker atau gundu, atau kelereng.</li>\n" +
                     "        </ul>\n\n<br>",
-            "MBhJDGNWHw8"
+            "MBhJDGNWHw8",
+            "N.K...N#"
         )
     )
 }
